@@ -1,7 +1,18 @@
 ======================================================================
 WORKING CONFIGS SORTED BY LATENCY
 ======================================================================
-
+#1 | VLESS | Latency: 284ms (10/10 OK)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.232.140.40:8880?type=ws&host=vms.lifetime61.workers.dev&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳#@DeltaKroneckerGithub
+----------------------------------------------------------------------
+#2 | VLESS | Latency: 320ms (10/10 OK)
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?type=tcp&security=reality&encryption=none&sni=yahoo.com&fp=chrome&alpn=http/1.1&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&headerType=none&allowInsecure=1#🔥Join+Telegram:@Farah_VPN🟣
+----------------------------------------------------------------------
+#3 | VLESS | Latency: 512ms (10/10 OK)
+vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#configV2rayNG-414
+----------------------------------------------------------------------
+#4 | VMESS | Latency: 549ms (9/10 OK)
+vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh7rwn4e4IFVTLTE2MzU1IiwiYWRkIjoiODIuMTk4LjI0Ni4yMzMiLCJwb3J0IjoiMTgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJ5ZXNwYWludHN0dWRpby5yYXYta3Jhc2tpLnJ1IiwidGxzIjoiIn0=
+----------------------------------------------------------------------
 #1 | VLESS | Latency: 98ms (10/10 OK)
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.216.67.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime05.workers.dev&path=/#@DeltaKroneckerGithub
 ----------------------------------------------------------------------
