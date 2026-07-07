@@ -1,20 +1,64 @@
+======================================================================
+WORKING CONFIGS SORTED BY LATENCY
+======================================================================
+
+#1 | TROJAN | Latency: 174ms (10/10 OK)
 trojan://humanity@104.16.174.12:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+----------------------------------------------------------------------
+#2 | VMESS | Latency: 177ms (10/10 OK)
 vmess://eyJhZGQiOiJubHQucmVhdGEuaXIiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiNjI0NGM0MWEtZjRjMS00NzMzLWE2NTQtYzM4Zjc3MjliMTNjIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDIwIiwicHMiOiJCeSBFYnJhU2hhIOKZo++4jyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJJUuS8iuaclyIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+----------------------------------------------------------------------
+#3 | VMESS | Latency: 201ms (10/10 OK)
 vmess://eyJhZGQiOiIxODUuMjQ4LjMzLjE3MyIsImhvc3QiOiJpbWFmYWtlLmxvY2tlciIsInNuaSI6ImltYWZha2UubG9ja2VyIiwiaWQiOiIzNzg2ZTY3YS00MWViLTRiOTItYjMxZS00MTdlODk0OTNiOTMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0IiwicG9ydCI6MTgxNDMsInBzIjoiW09wZW5SYXldIPCfh6vwn4e3IEZSLTI2MzQiLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ==
+----------------------------------------------------------------------
+#4 | VLESS | Latency: 211ms (10/10 OK)
 vless://29fb68bb-ff05-4fd4-8393-cc6c05d81a79@purple-butterfly-8496.erfannull36.workers.dev:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&type=ws&host=&fp=random&sni=&path=%2F&encryption=none#v2go%20%7C%20VLESS%20%7C%2013719
+----------------------------------------------------------------------
+#5 | TROJAN | Latency: 245ms (10/10 OK)
 trojan://humanity@104.18.152.246:443/?type=ws&host=www.calmloud.com&path=/assignment&security=tls&sni=www.calmloud.com&alpn=http/1.1&fp=chrome#🇨🇦57818 | ⚡️Telegram = t.me/SOSkeyNET
+----------------------------------------------------------------------
+#6 | VLESS | Latency: 282ms (10/10 OK)
 vless://356ccb34-22cc-4446-a137-072bc60d65ca@bypass.fr-gt-01.com:8443?type=tcp&security=reality&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=f34818a561dfd1fe#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
+----------------------------------------------------------------------
+#7 | VLESS | Latency: 286ms (10/10 OK)
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@bab-6.site:443?path=/vws/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#Join+Telegram:@Farah_VPN
+----------------------------------------------------------------------
+#8 | TROJAN | Latency: 301ms (10/10 OK)
 trojan://humanity@104.18.152.229:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#برای اتصال دائمی جوین شو🏵 TelegramID ⌲Express_freevpn 🪩
+----------------------------------------------------------------------
+#9 | SHADOWSOCKS | Latency: 369ms (9/10 OK)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#[ @ConfigPositive] 2💫
+----------------------------------------------------------------------
+#10 | VLESS | Latency: 443ms (10/10 OK)
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#@V2ray_Alpha🐤 1
+----------------------------------------------------------------------
+#11 | SHADOWSOCKS | Latency: 454ms (10/10 OK)
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#@DeltaKroneckerGithub
+----------------------------------------------------------------------
+#12 | TROJAN | Latency: 531ms (10/10 OK)
 trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20386328
+----------------------------------------------------------------------
+#13 | VLESS | Latency: 558ms (10/10 OK)
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&security=reality&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&sid=#Join+Telegram:@Farah_VPN
+----------------------------------------------------------------------
+#14 | VLESS | Latency: 578ms (10/10 OK)
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?security=tls&allowInsecure=0&encryption=none&type=ws&path=/vless/&fp=chrome#%40filembad`
+----------------------------------------------------------------------
+#15 | VLESS | Latency: 583ms (10/10 OK)
 vless://20a25a96-61df-4a4f-8424-165fc9cfc84e@172.64.144.162:2096/?type=ws&encryption=none&flow=&host=empty-band-d17d.raana2710.workers.dev&path=%2F&ed=2048&eh=Sec-WebSocket-Protocol&security=tls&sni=empty-band-d17d.raana2710.workers.dev#@DeltaKroneckerGithub
+----------------------------------------------------------------------
+#16 | SHADOWSOCKS | Latency: 588ms (7/10 OK)
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#%F0%9F%87%AC%F0%9F%87%A7%20UK%20-%20London%201`
+----------------------------------------------------------------------
+#17 | TROJAN | Latency: 621ms (8/10 OK)
 trojan://humanity@172.66.47.69:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#🔥Join+Telegram:@Farah_VPN🟣
+----------------------------------------------------------------------
+#18 | TROJAN | Latency: 654ms (8/10 OK)
 trojan://humanity@104.16.6.70:443?security=tls&sni=www.creationlong.org&insecure=1&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment#v2go%20%7C%20TROJAN%20%7C%2010048
+----------------------------------------------------------------------
+#19 | SHADOWSOCKS | Latency: 787ms (10/10 OK)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#%3E%3E%40ISVvpn%3A%3AXX
+----------------------------------------------------------------------
+#20 | VLESS | Latency: 795ms (8/10 OK)
 vless://356ccb34-22cc-4446-a137-072bc60d65ca@bypass.fr-gt-01.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=firefox&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=f34818a561dfd1fe&flow=xtls-rprx-vision#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
+----------------------------------------------------------------------
