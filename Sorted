@@ -2,63 +2,303 @@
 WORKING CONFIGS SORTED BY LATENCY
 ======================================================================
 
-#1 | TROJAN | Latency: 174ms (10/10 OK)
-trojan://humanity@104.16.174.12:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+#1 | VLESS | Latency: 102ms (10/10 OK)
+vless://d278a1f1-a6b4-4783-8fd5-7d0d9a9dd88f@172.67.136.241:8080?type=ws&security=none&encryption=none&path=%2F&host=zeus-panel-7gtag4.kingworker11228peekconfig.workers.dev&headerType=none#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21139
 ----------------------------------------------------------------------
-#2 | VMESS | Latency: 177ms (10/10 OK)
-vmess://eyJhZGQiOiJubHQucmVhdGEuaXIiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiNjI0NGM0MWEtZjRjMS00NzMzLWE2NTQtYzM4Zjc3MjliMTNjIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDIwIiwicHMiOiJCeSBFYnJhU2hhIOKZo++4jyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJJUuS8iuaclyIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+#2 | VLESS | Latency: 102ms (10/10 OK)
+vless://24ae739f-e7b7-45df-bd55-12ac982c5649@104.21.78.128:8080?encryption=none&security=none&type=ws&host=zeus-panel-2vxg7a.kingworkerpeekconfig.workers.dev&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21426
 ----------------------------------------------------------------------
-#3 | VMESS | Latency: 201ms (10/10 OK)
-vmess://eyJhZGQiOiIxODUuMjQ4LjMzLjE3MyIsImhvc3QiOiJpbWFmYWtlLmxvY2tlciIsInNuaSI6ImltYWZha2UubG9ja2VyIiwiaWQiOiIzNzg2ZTY3YS00MWViLTRiOTItYjMxZS00MTdlODk0OTNiOTMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0IiwicG9ydCI6MTgxNDMsInBzIjoiW09wZW5SYXldIPCfh6vwn4e3IEZSLTI2MzQiLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ==
+#3 | VLESS | Latency: 107ms (10/10 OK)
+vless://3076f0f0-558c-cbb3-0570-ca4200000014@104.25.244.62:80?path=%2Fsync&security=&encryption=none&host=abolfazl-1.danayyabwalfdl6.workers.dev&fp=chrome&type=ws&sni=abolfazl-1.danayyabwalfdl6.workers.dev#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-20339
 ----------------------------------------------------------------------
-#4 | VLESS | Latency: 211ms (10/10 OK)
-vless://29fb68bb-ff05-4fd4-8393-cc6c05d81a79@purple-butterfly-8496.erfannull36.workers.dev:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&type=ws&host=&fp=random&sni=&path=%2F&encryption=none#v2go%20%7C%20VLESS%20%7C%2013719
+#4 | VLESS | Latency: 107ms (10/10 OK)
+vless://af19ce98-b58b-43ef-9f0d-2ae6343e28fe@172.67.133.44:2086?type=ws&host=blue-disk-1124.sawmansafi.workers.dev&path=/eyJqdW5rIjoiQTdKUTVZeVVoQWpjamhqIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19?ed=2560#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21450
 ----------------------------------------------------------------------
-#5 | TROJAN | Latency: 245ms (10/10 OK)
-trojan://humanity@104.18.152.246:443/?type=ws&host=www.calmloud.com&path=/assignment&security=tls&sni=www.calmloud.com&alpn=http/1.1&fp=chrome#🇨🇦57818 | ⚡️Telegram = t.me/SOSkeyNET
+#5 | TROJAN | Latency: 108ms (10/10 OK)
+trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.101:443?path=%2Fau-do&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-20241
 ----------------------------------------------------------------------
-#6 | VLESS | Latency: 282ms (10/10 OK)
-vless://356ccb34-22cc-4446-a137-072bc60d65ca@bypass.fr-gt-01.com:8443?type=tcp&security=reality&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=f34818a561dfd1fe#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
+#6 | VLESS | Latency: 108ms (10/10 OK)
+vless://e27b750e-6f41-421e-83b4-df05833d2473@104.21.56.110:8080?type=ws&security=none&encryption=none&path=%2F&host=zeus-panel-9ft9xp.mramir0101.workers.dev&headerType=none#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21361
 ----------------------------------------------------------------------
-#7 | VLESS | Latency: 286ms (10/10 OK)
-vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@bab-6.site:443?path=/vws/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#Join+Telegram:@Farah_VPN
+#7 | VLESS | Latency: 110ms (10/10 OK)
+vless://74705348-bb9c-47c6-9e91-057c6407bb20@104.16.107.139:8880?&security=none&type=ws&headerType=&host=small-glitter-aa35.76-21d.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-20360
 ----------------------------------------------------------------------
-#8 | TROJAN | Latency: 301ms (10/10 OK)
-trojan://humanity@104.18.152.229:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#برای اتصال دائمی جوین شو🏵 TelegramID ⌲Express_freevpn 🪩
+#8 | VLESS | Latency: 110ms (10/10 OK)
+vless://fba6d1fd-0dab-428d-ae71-0e64c73a6060@172.67.152.71:8880?type=ws&host=morning-wood-0e8a.28-63e.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-20372
 ----------------------------------------------------------------------
-#9 | SHADOWSOCKS | Latency: 369ms (9/10 OK)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#[ @ConfigPositive] 2💫
+#9 | VLESS | Latency: 123ms (10/10 OK)
+vless://fe3b26ec-4bc0-464d-a7b9-2db72a89846e@104.17.181.19:8880?type=ws&host=orange-base-2e09.87-c52.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21898
 ----------------------------------------------------------------------
-#10 | VLESS | Latency: 443ms (10/10 OK)
-vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#@V2ray_Alpha🐤 1
+#10 | VLESS | Latency: 125ms (10/10 OK)
+vless://84270e8b-567e-45c6-b2f2-56ec9a67ae1e@104.16.107.139:8880?&security=none&type=ws&headerType=&host=young-leaf-a723.162-4da.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-19766
 ----------------------------------------------------------------------
-#11 | SHADOWSOCKS | Latency: 454ms (10/10 OK)
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#@DeltaKroneckerGithub
+#11 | VLESS | Latency: 129ms (10/10 OK)
+vless://3adac494-0eb1-4d89-a187-b2181691444d@172.66.132.196:8880?type=ws&host=tiny-lake-bbf1.369-766.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21175
 ----------------------------------------------------------------------
-#12 | TROJAN | Latency: 531ms (10/10 OK)
-trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20386328
+#12 | VLESS | Latency: 133ms (10/10 OK)
+vless://21688283-27f0-4428-accc-26b372585053@104.21.43.236:8080?encryption=none&security=none&sni=zeus-panel-2oxlxt.kingworker121212121peekconfig.workers.dev&type=ws&host=zeus-panel-2oxlxt.kingworker121212121peekconfig.workers.dev&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21425
 ----------------------------------------------------------------------
-#13 | VLESS | Latency: 558ms (10/10 OK)
-vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&security=reality&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&sid=#Join+Telegram:@Farah_VPN
+#13 | VLESS | Latency: 138ms (10/10 OK)
+vless://2ff7eec6-da48-46ab-b770-5c83400a528c@104.17.170.132:8880?&security=none&type=ws&headerType=&host=icy-glade-ad0f.412.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21909
 ----------------------------------------------------------------------
-#14 | VLESS | Latency: 578ms (10/10 OK)
-vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?security=tls&allowInsecure=0&encryption=none&type=ws&path=/vless/&fp=chrome#%40filembad`
+#14 | VLESS | Latency: 139ms (10/10 OK)
+vless://270ee1c7-96df-473a-a50f-1a4cf5641bdc@172.67.190.227:80?type=ws&security=none&encryption=none&path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&host=zeus-panel-0vxens.basfryfayrbasfryfayr.workers.dev&headerType=none#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-22048
 ----------------------------------------------------------------------
-#15 | VLESS | Latency: 583ms (10/10 OK)
-vless://20a25a96-61df-4a4f-8424-165fc9cfc84e@172.64.144.162:2096/?type=ws&encryption=none&flow=&host=empty-band-d17d.raana2710.workers.dev&path=%2F&ed=2048&eh=Sec-WebSocket-Protocol&security=tls&sni=empty-band-d17d.raana2710.workers.dev#@DeltaKroneckerGithub
+#15 | VLESS | Latency: 145ms (10/10 OK)
+vless://0b17eb47-587b-4e46-86a7-e1681cbbe76c@104.16.107.139:8880?&security=none&type=ws&headerType=&host=orange-math-9c83.371.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-20279
 ----------------------------------------------------------------------
-#16 | SHADOWSOCKS | Latency: 588ms (7/10 OK)
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#%F0%9F%87%AC%F0%9F%87%A7%20UK%20-%20London%201`
+#16 | VLESS | Latency: 149ms (10/10 OK)
+vless://8c56b4af-4762-4299-a1f8-799790dbaac7@172.67.179.98:8880?security=none&type=ws&host=lively-lab-4fd2.150-6f7.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21135
 ----------------------------------------------------------------------
-#17 | TROJAN | Latency: 621ms (8/10 OK)
-trojan://humanity@172.66.47.69:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#🔥Join+Telegram:@Farah_VPN🟣
+#17 | VLESS | Latency: 154ms (10/10 OK)
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cf8.466688.xyz:2095?encryption=none&security=none&fp=chrome&type=ws&host=cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev&path=/@https://t.me/QiangLieTuiJian#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21318
 ----------------------------------------------------------------------
-#18 | TROJAN | Latency: 654ms (8/10 OK)
-trojan://humanity@104.16.6.70:443?security=tls&sni=www.creationlong.org&insecure=1&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment#v2go%20%7C%20TROJAN%20%7C%2010048
+#18 | VLESS | Latency: 154ms (10/10 OK)
+vless://a045dd2b-db2e-4179-acd8-35067fd8ba0d@172.67.217.155:8080?security=none&sni=zeus-panel-tln7ap.kingworkerr.workers.dev&type=ws&host=zeus-panel-tln7ap.kingworkerr.workers.dev&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-22044
 ----------------------------------------------------------------------
-#19 | SHADOWSOCKS | Latency: 787ms (10/10 OK)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#%3E%3E%40ISVvpn%3A%3AXX
+#19 | VLESS | Latency: 156ms (10/10 OK)
+vless://2a166c5e-6560-4cc0-a891-c3482f1379ea@104.17.122.62:8080?path=%2F&security=&encryption=none&host=ez-9eb0c3.ezaccess131f845.workers.dev&fp=chrome&type=ws&sni=ez-9eb0c3.ezaccess131f845.workers.dev#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-19984
 ----------------------------------------------------------------------
-#20 | VLESS | Latency: 795ms (8/10 OK)
-vless://356ccb34-22cc-4446-a137-072bc60d65ca@bypass.fr-gt-01.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=firefox&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=f34818a561dfd1fe&flow=xtls-rprx-vision#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
+#20 | VLESS | Latency: 157ms (10/10 OK)
+vless://5f596575-dfce-8cbb-5a58-d43c1698e862@188.114.98.0:80?security=none&sni=wispy-field-43fb.mirar6bad.workers.dev&type=ws&host=wispy-field-43fb.mirar6bad.workers.dev&path=%2Fsixseven#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21436
+----------------------------------------------------------------------
+#21 | VLESS | Latency: 158ms (10/10 OK)
+vless://486ebf01-0b45-4c38-9ef6-198aa0f9d2c3@104.16.107.139:8880?&security=none&type=ws&headerType=&host=quiet-feather-19f3.410-a69.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-19767
+----------------------------------------------------------------------
+#22 | VLESS | Latency: 161ms (10/10 OK)
+vless://febc7c0d-1c70-4fb6-9326-51da52efc483@172.67.181.122:8880?type=ws&security=none&encryption=none&path=%2F&host=zeus-panel-g75bgi.zeus-1e8zqa.workers.dev&headerType=none#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21232
+----------------------------------------------------------------------
+#23 | VLESS | Latency: 163ms (10/10 OK)
+vless://f4e6476f-40d0-40cb-841f-cc2f6909ff20@172.67.209.127:8880?encryption=none&type=ws&host=calm-haze-d105.21-7cd.workers.dev&path=/pyip%3DProxyIP.SG.CMLiussss.net&packetEncoding=xudp#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21128
+----------------------------------------------------------------------
+#24 | VLESS | Latency: 165ms (10/10 OK)
+vless://3adac494-0eb1-4d89-a187-b2181691444d@104.21.55.229:8880?type=ws&host=tiny-lake-bbf1.369-766.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21172
+----------------------------------------------------------------------
+#25 | VLESS | Latency: 165ms (9/10 OK)
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.20.94:2095/?type=ws&encryption=none&flow=&host=cnmfangbinxing-nmsl.cnmfangbinxing-0.workers.dev&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-20785
+----------------------------------------------------------------------
+#26 | VLESS | Latency: 166ms (10/10 OK)
+vless://f77a1ad9-5ffa-4684-ba91-82f0df247eef@104.17.58.113:8880?&security=none&type=ws&headerType=&host=weathered-hat-64c5.50-47f.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21911
+----------------------------------------------------------------------
+#27 | VLESS | Latency: 172ms (10/10 OK)
+vless://3a38b35b-7b31-452c-954f-99c2f45dda19@172.66.170.53:8880?&security=none&type=ws&headerType=&host=sweet-truth-0f0c.71-fca.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21357
+----------------------------------------------------------------------
+#28 | VLESS | Latency: 176ms (10/10 OK)
+vless://1a0cefad-99be-486a-a062-2ceee14849fa@104.17.121.70:80?path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=&fragment=20-30%2C1-2&encryption=none&host=zeus-panel-n4i8us.zeus-ri73nu.workers.dev&fp=ios&type=ws&sni=zeus-panel-n4i8us.zeus-ri73nu.workers.dev#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21261
+----------------------------------------------------------------------
+#29 | VLESS | Latency: 177ms (10/10 OK)
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.21.94:2095/?type=ws&encryption=none&flow=&host=cnmfangbinxing-nmsl.cnmfangbinxing-0.workers.dev&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21089
+----------------------------------------------------------------------
+#30 | VLESS | Latency: 179ms (10/10 OK)
+vless://73ae7d45-1046-4cc5-9741-199375b620f1@104.21.23.72:8880?security=none&type=ws&host=round-resonance-a84c.13-531.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-20748
+----------------------------------------------------------------------
+#31 | VLESS | Latency: 180ms (10/10 OK)
+vless://9f8e7d6c-5b4a-4321-8b7a-6c5d4e3f2a1b@104.16.72.162:80?security=none&type=ws&host=scale85-cdn.sabzi.name.ng.&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21137
+----------------------------------------------------------------------
+#32 | VLESS | Latency: 184ms (10/10 OK)
+vless://bf380279-cbd5-4e55-96d1-f5a652aaf6b3@104.16.107.139:8880?path=/pyip=ProxyIP.US.CMLiussss.net&security=none&encryption=none&host=mute-dust-f0c4.456-8ae.workers.dev&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21464
+----------------------------------------------------------------------
+#33 | VLESS | Latency: 185ms (10/10 OK)
+vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.18.37.104:80?encryption=none&type=ws&host=sfsl.ardomains1.dpdns.org&path=%2F%3Fed%3D2048&security=none#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-19091
+----------------------------------------------------------------------
+#34 | VLESS | Latency: 189ms (10/10 OK)
+vless://6caab115-c88f-4e8b-bdab-d66865b681c8@172.67.196.16:8080?security=none&sni=zeus-panel-6bt45h.ftgwyie7w8321.workers.dev&type=ws&host=zeus-panel-6bt45h.ftgwyie7w8321.workers.dev&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21919
+----------------------------------------------------------------------
+#35 | VLESS | Latency: 192ms (10/10 OK)
+vless://612f78a0-65ca-45af-a3ff-7d0f8e9f8655@104.26.13.40:8880?type=ws&host=broken-star-c5ae.446.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-20861
+----------------------------------------------------------------------
+#36 | VLESS | Latency: 196ms (10/10 OK)
+vless://3adac494-0eb1-4d89-a187-b2181691444d@172.66.140.62:8880?type=ws&host=tiny-lake-bbf1.369-766.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21176
+----------------------------------------------------------------------
+#37 | VLESS | Latency: 198ms (10/10 OK)
+vless://ddef628e-e3a8-43c4-85eb-bd767a5f3b13@162.159.46.0:8880?type=ws&host=autumn-forest-3479.121-488.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21235
+----------------------------------------------------------------------
+#38 | VLESS | Latency: 199ms (10/10 OK)
+vless://84270e8b-567e-45c6-b2f2-56ec9a67ae1e@172.67.152.71:8880?security=none&sni=log.bpminecraft.com&type=ws&host=young-leaf-a723.162-4da.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-22037
+----------------------------------------------------------------------
+#39 | VLESS | Latency: 200ms (10/10 OK)
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.26.5.139:2095?encryption=none&host=cnmfangbinxing.cnmfangbinxing-k.workers.dev&path=%2Ffp%3Drandomized&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-18878
+----------------------------------------------------------------------
+#40 | VLESS | Latency: 201ms (10/10 OK)
+vless://f5c01a38-a92a-46a1-8968-a0582f4e2f2a@104.16.107.139:8880?&security=none&type=ws&headerType=&host=steep-frost-8b18.350-c77.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-19781
+----------------------------------------------------------------------
+#41 | VLESS | Latency: 203ms (10/10 OK)
+vless://26fb53e4-fd49-4b34-b605-b6cc1b1a06a8@104.17.181.19:8880?&security=none&type=ws&headerType=&host=royal-shape-3771.93-728.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21908
+----------------------------------------------------------------------
+#42 | VLESS | Latency: 206ms (10/10 OK)
+vless://9b7d9618-29a6-45e9-9eca-dcc7ad42f974@104.16.107.139:8880?path=%2Fpyip&security=&encryption=none&host=shrill-frost-6da5.155-dec.workers.dev&fp=chrome&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21917
+----------------------------------------------------------------------
+#43 | VLESS | Latency: 208ms (10/10 OK)
+vless://3adac494-0eb1-4d89-a187-b2181691444d@104.21.89.181:8880?type=ws&host=tiny-lake-bbf1.369-766.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21174
+----------------------------------------------------------------------
+#44 | VLESS | Latency: 209ms (10/10 OK)
+vless://ad85a1ce-3519-4634-9ea1-66c60d3694ba@172.67.152.71:8880?type=ws&host=little-pond-8731.81-68e.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-20818
+----------------------------------------------------------------------
+#45 | VLESS | Latency: 211ms (10/10 OK)
+vless://9f8e7d6c-5b4a-4321-8b7a-6c5d4e3f2a1b@172.66.47.69:80?type=ws&security=none&path=%2F&host=free-hzr26-cdn.sabzi.name.ng.#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-20852
+----------------------------------------------------------------------
+#46 | VLESS | Latency: 212ms (10/10 OK)
+vless://e8d06b09-acd9-448c-9874-3c36151d36ee@104.26.3.125:2052?security=none&type=ws&path=%2F%F0%9F%94%92%20%5BBy%20EbraSha%5D&host=icy-wildflower-2590.lihuifeng595.workers.dev&encryption=none#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-11586
+----------------------------------------------------------------------
+#47 | VLESS | Latency: 218ms (10/10 OK)
+vless://82a3c394-55b7-4780-93a0-5f45c0e89625@172.67.179.98:8880?type=ws&host=square-brook-e650.353-3ac.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-20816
+----------------------------------------------------------------------
+#48 | VLESS | Latency: 219ms (10/10 OK)
+vless://81b3fa7e-12b0-4c2b-9866-324edd26ef7f@172.67.179.98:8880?encryption=none&security=none&type=ws&host=falling-lake-0b5a.192-3e2.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21440
+----------------------------------------------------------------------
+#49 | VLESS | Latency: 221ms (10/10 OK)
+vless://49a9aa25-443b-4fab-9a85-066dd5396c57@104.17.170.132:8880?&security=none&type=ws&headerType=&host=mute-river-6aee.421-bd7.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21910
+----------------------------------------------------------------------
+#50 | VLESS | Latency: 222ms (10/10 OK)
+vless://3c04e891-dc32-40a3-bcd0-d5e8283a6a03@104.16.107.139:8880?&security=none&type=ws&headerType=&host=polished-firefly-3e2d.20-645.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-20033
+----------------------------------------------------------------------
+#51 | VLESS | Latency: 228ms (10/10 OK)
+vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=/vless/&security=tls&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17808
+----------------------------------------------------------------------
+#52 | VLESS | Latency: 230ms (10/10 OK)
+vless://ee85dc58-e243-453d-b26d-af698be99b36@104.21.24.116:80?path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=&encryption=none&host=zeus-panel-wj6me6.zeus-ir-netlify.workers.dev&fp=ios&type=ws&sni=zeus-panel-wj6me6.zeus-ir-netlify.workers.dev#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-22049
+----------------------------------------------------------------------
+#53 | VLESS | Latency: 230ms (10/10 OK)
+vless://a8985e6a-f338-4b44-9a41-f94495603a96@104.21.55.229:8880?path=/pyip=ProxyIP.JP.CMLiussss.net&security=none&encryption=none&host=dawn-cell-346f.238-df6.workers.dev&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21438
+----------------------------------------------------------------------
+#54 | VLESS | Latency: 237ms (10/10 OK)
+vless://4e81922a-1c2e-41ee-bb4c-9095a0a363fe@104.21.23.72:8880?path=/pyip=ProxyIP.SG.CMLiussss.net&security=none&encryption=none&host=gentle-cell-501a.273-d6b.workers.dev&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21853
+----------------------------------------------------------------------
+#55 | VLESS | Latency: 237ms (10/10 OK)
+vless://f989cbf4-40d2-41d2-8a00-1fe4e29b2192@104.16.107.139:8880?&security=none&type=ws&headerType=&host=ancient-rice-c180.455-8ad.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-20840
+----------------------------------------------------------------------
+#56 | VLESS | Latency: 241ms (10/10 OK)
+vless://75323b6f-184f-4d00-839d-323b8fc70221@104.16.107.139:8880?&security=none&type=ws&headerType=&host=dry-sunset-f3c4.282.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-20069
+----------------------------------------------------------------------
+#57 | VLESS | Latency: 242ms (10/10 OK)
+vless://00ff7e5f-9b6f-4401-aab9-4d044660411f@cf8.466688.xyz:8880?encryption=none&security=none&type=ws&host=summer-bonus-aa63.52-c03.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net@https://t.me/QiangLieTuiJian#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21308
+----------------------------------------------------------------------
+#58 | VLESS | Latency: 243ms (10/10 OK)
+vless://3adac494-0eb1-4d89-a187-b2181691444d@104.21.56.202:8880?type=ws&host=tiny-lake-bbf1.369-766.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21173
+----------------------------------------------------------------------
+#59 | VLESS | Latency: 244ms (10/10 OK)
+vless://f8abf475-11e1-4f9f-87e1-22011fe75284@104.21.1.177:8080?security=none&sni=zeus-panel-koqibn.peekconf12222.workers.dev&type=ws&host=zeus-panel-koqibn.peekconf12222.workers.dev&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-22047
+----------------------------------------------------------------------
+#60 | VLESS | Latency: 244ms (10/10 OK)
+vless://66265232-e176-4c29-b133-8260c9dcb0a3@148.113.196.75:8443/?type=ws&encryption=none&flow=&path=%2Fvless%2F&security=tls&sni=ov-canada1.09vpn.com&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-20779
+----------------------------------------------------------------------
+#61 | VLESS | Latency: 246ms (10/10 OK)
+vless://56eba3f8-94f8-48f2-920b-d79bb042d0bb@104.16.107.139:8880?host=lingering-glade-21ce.61-b6f.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-20790
+----------------------------------------------------------------------
+#62 | VLESS | Latency: 247ms (10/10 OK)
+vless://3adac494-0eb1-4d89-a187-b2181691444d@172.67.174.37:8880?type=ws&host=tiny-lake-bbf1.369-766.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21177
+----------------------------------------------------------------------
+#63 | VLESS | Latency: 251ms (10/10 OK)
+vless://2a166c5e-6560-4cc0-a891-c3482f1379ea@104.17.122.62:8080?type=ws&security=none&encryption=none&path=%2F&host=ez-9eb0c3.ezaccess131f845.workers.dev&headerType=none#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21230
+----------------------------------------------------------------------
+#64 | VLESS | Latency: 253ms (10/10 OK)
+vless://f8abf475-11e1-4f9f-87e1-22011fe75284@172.67.129.173:8080?security=none&sni=zeus-panel-koqibn.peekconf12222.workers.dev&type=ws&host=zeus-panel-koqibn.peekconf12222.workers.dev&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-22042
+----------------------------------------------------------------------
+#65 | VLESS | Latency: 254ms (10/10 OK)
+vless://43a92977-08ff-45ba-84f0-bab7fc8a15c5@104.16.107.139:8880?encryption=none&security=none&type=ws&host=sparkling-wave-6c5c.200-67a.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21452
+----------------------------------------------------------------------
+#66 | VLESS | Latency: 255ms (10/10 OK)
+vless://1f06dae9-e4cc-4aae-b026-07f7fc81fb56@104.21.23.72:8880?security=none&type=ws&host=spring-fire-a493.251-67d.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-20981
+----------------------------------------------------------------------
+#67 | VLESS | Latency: 255ms (10/10 OK)
+vless://9d45d137-9892-4a83-a04a-f30b4da28243@104.26.13.40:8880?type=ws&host=broken-wave-8a45.483.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-20842
+----------------------------------------------------------------------
+#68 | VLESS | Latency: 257ms (10/10 OK)
+vless://24c2a873-4584-4c53-8679-61029682d0bb@172.67.209.127:8880?encryption=none&security=none&type=ws&host=soft-thunder-bc22.111-f59.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21363
+----------------------------------------------------------------------
+#69 | VLESS | Latency: 259ms (10/10 OK)
+vless://ee85dc58-e243-453d-b26d-af698be99b36@172.67.141.45:80?path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=&encryption=none&host=zeus-panel-wj6me6.zeus-ir-netlify.workers.dev&fp=ios&type=ws&sni=zeus-panel-wj6me6.zeus-ir-netlify.workers.dev#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-22052
+----------------------------------------------------------------------
+#70 | VLESS | Latency: 261ms (10/10 OK)
+vless://270ee1c7-96df-473a-a50f-1a4cf5641bdc@172.67.190.227:80?security=none&sni=zeus-panel-0vxens.basfryfayrbasfryfayr.workers.dev&type=ws&host=zeus-panel-0vxens.basfryfayrbasfryfayr.workers.dev&path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-22030
+----------------------------------------------------------------------
+#71 | VLESS | Latency: 262ms (10/10 OK)
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.67.66.177:2095?encryption=none&security=none&type=ws&host=cnmfangbinxingnmsl.cnm-fangbinxingnmsl-250.workers.dev&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21423
+----------------------------------------------------------------------
+#72 | TROJAN | Latency: 265ms (8/10 OK)
+trojan://humanity@188.114.96.3:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12178
+----------------------------------------------------------------------
+#73 | VLESS | Latency: 268ms (10/10 OK)
+vless://14e0ab2e-fb3e-4fd1-a6d9-62eeae62976b@104.17.58.113:8880?&security=none&type=ws&headerType=&host=jolly-shape-3ce6.392.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21947
+----------------------------------------------------------------------
+#74 | VLESS | Latency: 270ms (10/10 OK)
+vless://17239063-e23e-4e3d-8217-cafa67124003@104.21.67.141:8080?encryption=none&security=none&sni=zeus-panel-j9dmh2.zeus-2zgd21.workers.dev&type=ws&host=zeus-panel-j9dmh2.zeus-2zgd21.workers.dev&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21362
+----------------------------------------------------------------------
+#75 | VLESS | Latency: 280ms (10/10 OK)
+vless://1f06dae9-e4cc-4aae-b026-07f7fc81fb56@172.67.209.127:8880?security=none&type=ws&host=spring-fire-a493.251-67d.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-20982
+----------------------------------------------------------------------
+#76 | VLESS | Latency: 280ms (10/10 OK)
+vless://66265232-e176-4c29-b133-8260c9dcb0a3@ov-canada1.09vpn.com:8443?path=/vless/&security=tls&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17940
+----------------------------------------------------------------------
+#77 | VLESS | Latency: 281ms (10/10 OK)
+vless://828aa918-2ed3-4541-8519-083f9efeaaf7@162.159.46.0:8880?&security=none&type=ws&headerType=&host=icy-hall-bfba.266-f4e.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21170
+----------------------------------------------------------------------
+#78 | VLESS | Latency: 286ms (10/10 OK)
+vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?type=ws&security=tls&sni=ov-canada1.09vpn.com&path=%2Fvless%2F&host=ov-canada1.09vpn.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17995
+----------------------------------------------------------------------
+#79 | VLESS | Latency: 289ms (10/10 OK)
+vless://b01cadb4-428b-42d2-8c56-d6c13e582ede@162.159.46.0:8880?type=ws&host=lingering-water-9e69.219.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21208
+----------------------------------------------------------------------
+#80 | VLESS | Latency: 290ms (10/10 OK)
+vless://3adac494-0eb1-4d89-a187-b2181691444d@172.67.187.219:8880?type=ws&host=tiny-lake-bbf1.369-766.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21178
+----------------------------------------------------------------------
+#81 | VLESS | Latency: 297ms (10/10 OK)
+vless://3076f0f0-558c-cbb3-0570-ca4200000014@104.25.244.62:80?encryption=none&security=none&type=ws&host=abolfazl-1.danayyabwalfdl6.workers.dev&path=%2Fsync#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21116
+----------------------------------------------------------------------
+#82 | VLESS | Latency: 301ms (10/10 OK)
+vless://a8985e6a-f338-4b44-9a41-f94495603a96@104.21.56.202:8880?path=/pyip=ProxyIP.JP.CMLiussss.net&security=none&encryption=none&host=dawn-cell-346f.238-df6.workers.dev&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21443
+----------------------------------------------------------------------
+#83 | VLESS | Latency: 311ms (10/10 OK)
+vless://ee85dc58-e243-453d-b26d-af698be99b36@108.162.193.176:80?path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=&encryption=none&host=zeus-panel-wj6me6.zeus-ir-netlify.workers.dev&fp=ios&type=ws&sni=zeus-panel-wj6me6.zeus-ir-netlify.workers.dev#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-22050
+----------------------------------------------------------------------
+#84 | VLESS | Latency: 312ms (7/10 OK)
+vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.19.238.22:80?encryption=none&type=ws&host=sfsl.ardomains1.dpdns.org&path=%2F%3Fed%3D2048&security=none#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-19090
+----------------------------------------------------------------------
+#85 | VLESS | Latency: 317ms (10/10 OK)
+vless://fba6d1fd-0dab-428d-ae71-0e64c73a6060@104.21.12.116:8880?type=ws&host=morning-wood-0e8a.28-63e.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-20371
+----------------------------------------------------------------------
+#86 | VLESS | Latency: 321ms (10/10 OK)
+vless://c06d0dd4-30a1-469e-9a84-b6fdd7aa0261@172.67.154.236:80?security=none&sni=zeus-panel-v94shm.ir-netlify-free.workers.dev&type=ws&host=zeus-panel-v94shm.ir-netlify-free.workers.dev&path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&fp=ios#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-22099
+----------------------------------------------------------------------
+#87 | VLESS | Latency: 323ms (10/10 OK)
+vless://c06d0dd4-30a1-469e-9a84-b6fdd7aa0261@104.21.6.48:80?security=none&sni=zeus-panel-v94shm.ir-netlify-free.workers.dev&type=ws&host=zeus-panel-v94shm.ir-netlify-free.workers.dev&path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&fp=ios#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-22098
+----------------------------------------------------------------------
+#88 | VLESS | Latency: 324ms (10/10 OK)
+vless://77b90f21-d414-43ae-a81d-ab6769649fc4@104.17.223.228:2082?path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=none&encryption=none&insecure=0&host=zeus-panel-8hkm7j.zeus-zew7l5.workers.dev&fp=random&type=ws&allowInsecure=0&sni=zeus-panel-8hkm7j.zeus-zew7l5.workers.dev#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21321
+----------------------------------------------------------------------
+#89 | VLESS | Latency: 327ms (10/10 OK)
+vless://90f0ae37-5a8f-4649-98ad-ac5323840f93@172.67.207.26:8880?path=/pyip=ProxyIP.SG.CMLiussss.net&security=none&encryption=none&host=silent-king-06b6.297-842.workers.dev&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21854
+----------------------------------------------------------------------
+#90 | VLESS | Latency: 328ms (9/10 OK)
+vless://8c56b4af-4762-4299-a1f8-799790dbaac7@104.21.88.129:8880?security=none&type=ws&host=lively-lab-4fd2.150-6f7.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-22043
+----------------------------------------------------------------------
+#91 | VLESS | Latency: 330ms (10/10 OK)
+vless://ee85dc58-e243-453d-b26d-af698be99b36@104.21.42.143:80?path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=&encryption=none&host=zeus-panel-wj6me6.zeus-ir-netlify.workers.dev&fp=ios&type=ws&sni=zeus-panel-wj6me6.zeus-ir-netlify.workers.dev#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-22058
+----------------------------------------------------------------------
+#92 | VLESS | Latency: 337ms (10/10 OK)
+vless://3087ca05-1a7c-45fa-aec9-805adeaedb1b@104.18.131.112:80?&type=ws&headerType=none&host=tianshu.kevqwkt451.workers.dev&path=%2F%3Fed%3D2560#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21213
+----------------------------------------------------------------------
+#93 | VLESS | Latency: 361ms (10/10 OK)
+vless://c6171ace-4580-45c7-b00f-5e6c56f48794@172.66.200.130:8880?&security=none&type=ws&headerType=&host=withered-cloud-1202.405-42c.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21422
+----------------------------------------------------------------------
+#94 | VLESS | Latency: 367ms (10/10 OK)
+vless://abd3678b-f654-404c-adc7-1355865197e1@172.67.134.102:8880?allowInsecure=0&type=ws&host=vless.a-amr79.workers.dev&path=/eyJqdW5rIjoiNUZVWmdPNWNpTW5LOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21104
+----------------------------------------------------------------------
+#95 | VLESS | Latency: 429ms (10/10 OK)
+vless://ee85dc58-e243-453d-b26d-af698be99b36@104.17.223.228:80?path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=&encryption=none&host=zeus-panel-wj6me6.zeus-ir-netlify.workers.dev&fp=ios&type=ws&sni=zeus-panel-wj6me6.zeus-ir-netlify.workers.dev#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-22062
+----------------------------------------------------------------------
+#96 | VLESS | Latency: 483ms (10/10 OK)
+vless://a7f37112-c2e2-4e36-a5ea-7de30b691514@104.21.80.59:8080?&type=ws&headerType=none&host=zeus-panel-t3iaiy.kingworker3133.workers.dev&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21216
+----------------------------------------------------------------------
+#97 | VLESS | Latency: 517ms (9/10 OK)
+vless://3adac494-0eb1-4d89-a187-b2181691444d@172.67.190.141:8880?type=ws&host=tiny-lake-bbf1.369-766.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21179
+----------------------------------------------------------------------
+#98 | TROJAN | Latency: 528ms (10/10 OK)
+trojan://humanity@188.114.97.57:443?security=tls&type=ws&sni=www.calmloud.com&path=/assignment&host=www.calmloud.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-18316
+----------------------------------------------------------------------
+#99 | VLESS | Latency: 654ms (10/10 OK)
+vless://1c0abb34-4313-4acb-993d-62bf52eace71@104.16.72.50:443?path=%2F&security=tls&encryption=none&host=c.downloadphysics.ir&fp=chrome&type=ws&sni=c.downloadphysics.ir#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21889
+----------------------------------------------------------------------
+#100 | VLESS | Latency: 757ms (10/10 OK)
+vless://86442a2b-417d-426d-9b42-955573b5c6e4@172.67.215.44:2052?type=ws&host=ez-bfa272.ezaccess1d90628.workers.dev&path=/eyJqdW5rIjoiaUhoWE5FbWloZWY1MGxobSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjg5LjE2OS4zNC45OSJdfQ==?ed=2560#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21119
 ----------------------------------------------------------------------
