@@ -1,0 +1,1261 @@
+======================================================================
+WORKING CONFIGS — SORTED BY LATENCY
+======================================================================
+
+#1 | VLESS | Latency: 453ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.144.21:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#2 | VLESS | Latency: 492ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.27.107.61:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#3 | VLESS | Latency: 528ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.16.47.147:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#4 | VLESS | Latency: 537ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.16.68.149:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#5 | VLESS | Latency: 543ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.108.135:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#6 | VLESS | Latency: 545ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.242.179:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#7 | VLESS | Latency: 545ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.191.56:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#8 | VLESS | Latency: 556ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.21.238:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#9 | VLESS | Latency: 557ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.64.36.241:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#10 | VLESS | Latency: 571ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.34.203:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#11 | VLESS | Latency: 573ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.77.103:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#12 | VLESS | Latency: 583ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.20.20.24:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#13 | VLESS | Latency: 597ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.12.235:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#14 | VLESS | Latency: 600ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.114.119:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#15 | VLESS | Latency: 604ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.252.2:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#16 | VLESS | Latency: 604ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.67.123.232:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#17 | VLESS | Latency: 608ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.235.39:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#18 | VLESS | Latency: 610ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.120.164:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#19 | VLESS | Latency: 620ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@162.159.3.65:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#20 | VLESS | Latency: 624ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.184.96:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#21 | VLESS | Latency: 639ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.194.120:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#22 | VLESS | Latency: 640ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.16.105.203:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#23 | VLESS | Latency: 641ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.120.160:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#24 | VLESS | Latency: 642ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.10.92:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#25 | VLESS | Latency: 643ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.16.246.89:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#26 | VLESS | Latency: 647ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.30.140:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#27 | VLESS | Latency: 647ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.120.182:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#28 | VLESS | Latency: 652ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.192.47:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#29 | VLESS | Latency: 667ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.27.104.16:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#30 | VLESS | Latency: 670ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.228.15:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#31 | VLESS | Latency: 676ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.27.3.62:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#32 | VLESS | Latency: 678ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.251.251:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#33 | VLESS | Latency: 691ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@109.234.211.161:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#34 | VLESS | Latency: 695ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.191.189:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#35 | VLESS | Latency: 697ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.154.85:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#36 | VLESS | Latency: 699ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.13.151:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#37 | VLESS | Latency: 702ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.67.154.201:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#38 | VLESS | Latency: 702ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.24.103:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#39 | VLESS | Latency: 706ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.200.221:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#40 | VLESS | Latency: 710ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.250.159:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#41 | VLESS | Latency: 710ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.157.130:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#42 | VLESS | Latency: 710ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.229.252:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#43 | VLESS | Latency: 713ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.67.102.44:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#44 | VLESS | Latency: 713ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.30.165:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#45 | VLESS | Latency: 713ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.136.172:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#46 | VLESS | Latency: 716ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.27.98.173:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#47 | VLESS | Latency: 720ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.16.65.117:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#48 | VLESS | Latency: 720ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.85.124:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#49 | VLESS | Latency: 721ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.28.185:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#50 | VLESS | Latency: 722ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.113.127:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#51 | VLESS | Latency: 722ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.207.254:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#52 | VLESS | Latency: 722ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.108.182:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#53 | VLESS | Latency: 726ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.40.48:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#54 | VLESS | Latency: 728ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.16.62.113:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#55 | VLESS | Latency: 734ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.26.15.144:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#56 | VLESS | Latency: 736ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.16.188.46:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#57 | VLESS | Latency: 736ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.58.230:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#58 | VLESS | Latency: 738ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.27.79.25:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#59 | VLESS | Latency: 741ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.16.176.198:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#60 | VLESS | Latency: 743ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.137.165:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#61 | VLESS | Latency: 744ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.203.127:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#62 | VLESS | Latency: 751ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.237.6:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#63 | VLESS | Latency: 753ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.64.157.183:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#64 | VLESS | Latency: 758ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.3.205:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#65 | VLESS | Latency: 759ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@204.153.16.146:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#66 | VLESS | Latency: 760ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.241.198:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#67 | VLESS | Latency: 761ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.87.51:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#68 | VLESS | Latency: 764ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.77.232:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#69 | VLESS | Latency: 765ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.204.66:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#70 | VLESS | Latency: 765ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.162.186:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#71 | VLESS | Latency: 766ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.33.170:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#72 | VLESS | Latency: 767ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.74.35:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#73 | VLESS | Latency: 771ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.204.66:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#74 | VLESS | Latency: 772ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.35.141:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#75 | VLESS | Latency: 773ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.20.49.154:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#76 | VLESS | Latency: 774ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.27.71.18:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#77 | VLESS | Latency: 774ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.109.176:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#78 | VLESS | Latency: 775ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.206.73:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#79 | VLESS | Latency: 776ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.84.154:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#80 | VLESS | Latency: 777ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.174.18:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#81 | VLESS | Latency: 778ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.67.77.171:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#82 | VLESS | Latency: 781ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.112.8:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#83 | VLESS | Latency: 783ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.67.110.54:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#84 | VLESS | Latency: 784ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.2.111:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#85 | VLESS | Latency: 785ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.121.178:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#86 | VLESS | Latency: 785ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.66.168.223:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#87 | VLESS | Latency: 787ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.122.72:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#88 | VLESS | Latency: 788ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.85.124:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#89 | VLESS | Latency: 789ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.98.120:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#90 | VLESS | Latency: 791ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.251.111:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#91 | VLESS | Latency: 793ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.33.170:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#92 | VLESS | Latency: 794ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@192.71.82.104:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#93 | VLESS | Latency: 796ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.58.230:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#94 | VLESS | Latency: 797ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.105.62:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#95 | VLESS | Latency: 797ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.41.114:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#96 | VLESS | Latency: 798ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.246.217:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#97 | VLESS | Latency: 802ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.16.152.113:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#98 | VLESS | Latency: 803ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.168.113:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#99 | VLESS | Latency: 804ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.74.35:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#100 | VLESS | Latency: 806ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.9.230:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#101 | VLESS | Latency: 809ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.74.151:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#102 | VLESS | Latency: 811ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.182.240:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#103 | VLESS | Latency: 812ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.20.40.156:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#104 | VLESS | Latency: 814ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.67.77.161:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#105 | VLESS | Latency: 816ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.207.254:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#106 | VLESS | Latency: 820ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.243.108:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#107 | VLESS | Latency: 824ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.35.51:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#108 | VLESS | Latency: 824ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.203.41:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#109 | VLESS | Latency: 827ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.176.15:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#110 | VLESS | Latency: 828ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.168.113:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#111 | VLESS | Latency: 828ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.21.166:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#112 | VLESS | Latency: 829ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.27.116.234:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#113 | VLESS | Latency: 830ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.23.109:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#114 | VLESS | Latency: 832ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.27.79.25:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#115 | VLESS | Latency: 833ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.42.50:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#116 | VLESS | Latency: 833ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.241.121:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#117 | VLESS | Latency: 837ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.16.201.184:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#118 | VLESS | Latency: 838ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.94.100:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#119 | VLESS | Latency: 838ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@45.192.224.95:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#120 | VLESS | Latency: 839ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.233.251:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#121 | VLESS | Latency: 842ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.168.55:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#122 | VLESS | Latency: 844ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.46.55:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#123 | VLESS | Latency: 844ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.67.129.209:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#124 | VLESS | Latency: 845ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.150.96:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#125 | VLESS | Latency: 848ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.155.145:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#126 | VLESS | Latency: 848ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.246.217:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#127 | VLESS | Latency: 849ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.27.94.171:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#128 | VLESS | Latency: 849ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.255.96:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#129 | VLESS | Latency: 850ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.66.203.7:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#130 | VLESS | Latency: 850ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@162.159.26.8:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#131 | VLESS | Latency: 851ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.16.45.174:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#132 | VLESS | Latency: 854ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.27.17.184:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#133 | VLESS | Latency: 854ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.230.53:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#134 | VLESS | Latency: 854ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.27.61:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#135 | VLESS | Latency: 854ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@162.159.32.174:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#136 | VLESS | Latency: 857ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.26.36:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#137 | VLESS | Latency: 857ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.205.214:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#138 | VLESS | Latency: 857ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.27.40.59:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#139 | VLESS | Latency: 858ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.34.116:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#140 | VLESS | Latency: 858ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@108.162.194.100:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#141 | VLESS | Latency: 861ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.203.214:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#142 | VLESS | Latency: 863ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.216.99:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#143 | VLESS | Latency: 863ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.194.131:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#144 | VLESS | Latency: 865ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.33.76:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#145 | VLESS | Latency: 865ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.30.117:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#146 | VLESS | Latency: 867ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.139.79:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#147 | VLESS | Latency: 867ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.16.181.69:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#148 | VLESS | Latency: 868ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.194.86:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#149 | VLESS | Latency: 872ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.26.6.132:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#150 | VLESS | Latency: 876ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.78.143:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#151 | VLESS | Latency: 876ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.16.91.175:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#152 | VLESS | Latency: 877ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.96.250:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#153 | VLESS | Latency: 878ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.16.110.250:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#154 | VLESS | Latency: 883ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.171.52:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#155 | VLESS | Latency: 885ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.105.59:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#156 | VLESS | Latency: 886ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.112.123:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#157 | VLESS | Latency: 893ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.16.223.50:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#158 | VLESS | Latency: 894ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.163.238:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#159 | VLESS | Latency: 894ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.82.94:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#160 | VLESS | Latency: 894ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.44.150:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#161 | VLESS | Latency: 895ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.212.69:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#162 | VLESS | Latency: 895ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.86.198:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#163 | VLESS | Latency: 895ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.81.105:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#164 | VLESS | Latency: 896ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.196.136:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#165 | VLESS | Latency: 896ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.180.128:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#166 | VLESS | Latency: 898ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.16.92.35:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#167 | VLESS | Latency: 898ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.194.120:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#168 | VLESS | Latency: 900ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.2.25:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#169 | VLESS | Latency: 900ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.20.213:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#170 | VLESS | Latency: 902ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.28.22:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#171 | VLESS | Latency: 903ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.67.110.54:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#172 | VLESS | Latency: 904ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.76.216:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#173 | VLESS | Latency: 906ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.20.18.23:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#174 | VLESS | Latency: 906ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.28.188:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#175 | VLESS | Latency: 906ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.81.35:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#176 | VLESS | Latency: 907ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.254.208:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#177 | VLESS | Latency: 907ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.52.195:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#178 | VLESS | Latency: 908ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.16.165:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#179 | VLESS | Latency: 909ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.56.232:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#180 | VLESS | Latency: 911ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.127.56:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#181 | VLESS | Latency: 912ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.243.117:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#182 | VLESS | Latency: 915ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.250.32:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#183 | VLESS | Latency: 920ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.243.117:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#184 | VLESS | Latency: 926ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.75.230:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#185 | VLESS | Latency: 926ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.60.220:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#186 | VLESS | Latency: 927ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.164.167:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#187 | VLESS | Latency: 928ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.16.142.152:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#188 | VLESS | Latency: 928ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.230.0:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#189 | VLESS | Latency: 930ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.88.254:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#190 | VLESS | Latency: 931ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.64.32.74:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#191 | VLESS | Latency: 932ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.115.183:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#192 | VLESS | Latency: 933ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.245.37:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#193 | VLESS | Latency: 935ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.64.46.30:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#194 | VLESS | Latency: 935ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.27.13.60:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#195 | VLESS | Latency: 935ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.194.228:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#196 | VLESS | Latency: 936ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.27.15.142:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#197 | VLESS | Latency: 937ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.16.227:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#198 | VLESS | Latency: 937ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.127.57:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#199 | VLESS | Latency: 942ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.29.117:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#200 | VLESS | Latency: 942ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.77.189:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#201 | VLESS | Latency: 944ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@162.159.36.191:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#202 | VLESS | Latency: 944ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.169.124:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#203 | VLESS | Latency: 951ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.150.154:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#204 | VLESS | Latency: 954ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.16.81.159:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#205 | VLESS | Latency: 954ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.109.176:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#206 | VLESS | Latency: 954ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.67.100.173:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#207 | VLESS | Latency: 956ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.147.160:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#208 | VLESS | Latency: 958ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.2.200:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#209 | VLESS | Latency: 961ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.2.25:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#210 | VLESS | Latency: 961ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.46.229:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#211 | VLESS | Latency: 962ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.66.201.220:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#212 | VLESS | Latency: 963ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.151.219:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#213 | VLESS | Latency: 965ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@5.10.215.115:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#214 | VLESS | Latency: 965ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@190.93.247.41:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#215 | VLESS | Latency: 968ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.67.100.173:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#216 | VLESS | Latency: 970ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.67.77.171:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#217 | VLESS | Latency: 976ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.16.98.150:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#218 | VLESS | Latency: 976ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.13.144:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#219 | VLESS | Latency: 978ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.64.33.58:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#220 | VLESS | Latency: 979ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.249.155:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#221 | VLESS | Latency: 980ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.97.158:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#222 | VLESS | Latency: 981ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.67.210.117:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#223 | VLESS | Latency: 983ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.91.128:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#224 | VLESS | Latency: 984ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.35.116:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#225 | VLESS | Latency: 985ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.127.197:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#226 | VLESS | Latency: 985ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.169.54:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#227 | VLESS | Latency: 986ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.58.17:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#228 | VLESS | Latency: 986ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.235.39:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#229 | VLESS | Latency: 986ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.127.197:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#230 | VLESS | Latency: 988ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.50.23:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#231 | VLESS | Latency: 989ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.20.28.249:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#232 | VLESS | Latency: 989ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.137.165:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#233 | VLESS | Latency: 990ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.20.40.156:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#234 | VLESS | Latency: 993ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.27.199.150:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#235 | VLESS | Latency: 995ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.250.32:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#236 | VLESS | Latency: 996ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.76.107:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#237 | VLESS | Latency: 996ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.249.231:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#238 | VLESS | Latency: 1002ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.4.193:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#239 | VLESS | Latency: 1002ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.98.120:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#240 | VLESS | Latency: 1004ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.66.47.43:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#241 | VLESS | Latency: 1007ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.67.149.138:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#242 | VLESS | Latency: 1009ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.84.154:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#243 | VLESS | Latency: 1009ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.64.36.241:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#244 | VLESS | Latency: 1012ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.20.52.105:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#245 | VLESS | Latency: 1013ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.203.160:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#246 | VLESS | Latency: 1013ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.164.167:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#247 | VLESS | Latency: 1014ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.77.189:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#248 | VLESS | Latency: 1018ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.237.6:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#249 | VLESS | Latency: 1018ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@162.159.36.58:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#250 | VLESS | Latency: 1018ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.20.47.126:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#251 | VLESS | Latency: 1019ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.10.220:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#252 | VLESS | Latency: 1021ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.117.68:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#253 | VLESS | Latency: 1021ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.38.52:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#254 | VLESS | Latency: 1022ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.3.205:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#255 | VLESS | Latency: 1025ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.16.45.25:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#256 | VLESS | Latency: 1026ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.95.80:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#257 | VLESS | Latency: 1026ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.82.215:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#258 | VLESS | Latency: 1032ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.20.5.8:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#259 | VLESS | Latency: 1033ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.41.161:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#260 | VLESS | Latency: 1035ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.55.90:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#261 | VLESS | Latency: 1037ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@162.159.233.34:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#262 | VLESS | Latency: 1038ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.162.198:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#263 | VLESS | Latency: 1038ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@162.159.5.144:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#264 | VLESS | Latency: 1039ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@198.41.194.0:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#265 | VLESS | Latency: 1039ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.22.32:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#266 | VLESS | Latency: 1044ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.16.130.51:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#267 | VLESS | Latency: 1046ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.38.86:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#268 | VLESS | Latency: 1047ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.41.218:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#269 | VLESS | Latency: 1048ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.147.160:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#270 | VLESS | Latency: 1049ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.233.169:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#271 | VLESS | Latency: 1049ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.131.251:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#272 | VLESS | Latency: 1051ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.16.181.69:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#273 | VLESS | Latency: 1051ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.16.207.61:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#274 | VLESS | Latency: 1051ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@162.159.43.114:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#275 | VLESS | Latency: 1054ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.64.94.210:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#276 | VLESS | Latency: 1054ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.118.241:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#277 | VLESS | Latency: 1055ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@162.159.42.151:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#278 | VLESS | Latency: 1056ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.52.195:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#279 | VLESS | Latency: 1056ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.90.176:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#280 | VLESS | Latency: 1057ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.188.211:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#281 | VLESS | Latency: 1060ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.66.140.24:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#282 | VLESS | Latency: 1060ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.16.152.209:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#283 | VLESS | Latency: 1060ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.21.166:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#284 | VLESS | Latency: 1064ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.122.72:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#285 | VLESS | Latency: 1065ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.85.201:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#286 | VLESS | Latency: 1066ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.26.36:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#287 | VLESS | Latency: 1067ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.103.99:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#288 | VLESS | Latency: 1069ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.179.192:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#289 | VLESS | Latency: 1069ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.101.68:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#290 | VLESS | Latency: 1071ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.64.92.33:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#291 | VLESS | Latency: 1078ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.67.137:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#292 | VLESS | Latency: 1080ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@45.196.29.98:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#293 | VLESS | Latency: 1080ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.215.3:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#294 | VLESS | Latency: 1083ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.35.38:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#295 | VLESS | Latency: 1087ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.38.52:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#296 | VLESS | Latency: 1089ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.248.254:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#297 | VLESS | Latency: 1093ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.194.228:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#298 | VLESS | Latency: 1094ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.204.225:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#299 | VLESS | Latency: 1098ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.69.73:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#300 | VLESS | Latency: 1100ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.16.105.42:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#301 | VLESS | Latency: 1101ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.64.156.8:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#302 | VLESS | Latency: 1102ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.28.185:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#303 | VLESS | Latency: 1102ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.254.208:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#304 | VLESS | Latency: 1103ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.42.50:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#305 | VLESS | Latency: 1104ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.104.152:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#306 | VLESS | Latency: 1109ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.82.173:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#307 | VLESS | Latency: 1111ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.64.88.110:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#308 | VLESS | Latency: 1116ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.147.67:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#309 | VLESS | Latency: 1116ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.105.62:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#310 | VLESS | Latency: 1118ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@45.128.76.1:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#311 | VLESS | Latency: 1123ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.194.86:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#312 | VLESS | Latency: 1123ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@190.93.244.252:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#313 | VLESS | Latency: 1124ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.51.197:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#314 | VLESS | Latency: 1127ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.64.88.110:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#315 | VLESS | Latency: 1128ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.16.41.58:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#316 | VLESS | Latency: 1130ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@162.159.40.186:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#317 | VLESS | Latency: 1131ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.75.227:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#318 | VLESS | Latency: 1132ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.77.214:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#319 | VLESS | Latency: 1133ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.73.19:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#320 | VLESS | Latency: 1133ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.40.233:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#321 | VLESS | Latency: 1137ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.64.53.113:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#322 | VLESS | Latency: 1140ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@162.251.82.171:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#323 | VLESS | Latency: 1140ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.235.40:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#324 | VLESS | Latency: 1142ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.167.80:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#325 | VLESS | Latency: 1144ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.200.91:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#326 | VLESS | Latency: 1145ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.22.32:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#327 | VLESS | Latency: 1147ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.67.85.137:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#328 | VLESS | Latency: 1152ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.90.78:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#329 | VLESS | Latency: 1154ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.212.177:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#330 | VLESS | Latency: 1155ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.28.144:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#331 | VLESS | Latency: 1156ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@162.159.4.182:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#332 | VLESS | Latency: 1156ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.69.73:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#333 | VLESS | Latency: 1157ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.41.114:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#334 | VLESS | Latency: 1158ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.66.149.90:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#335 | VLESS | Latency: 1160ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.16.198.144:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#336 | VLESS | Latency: 1162ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.20.10.99:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#337 | VLESS | Latency: 1165ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.206.161:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#338 | VLESS | Latency: 1166ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@162.159.46.214:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#339 | VLESS | Latency: 1167ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.113.61:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#340 | VLESS | Latency: 1168ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.150.182:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#341 | VLESS | Latency: 1170ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.101.130:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#342 | VLESS | Latency: 1175ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.203.160:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#343 | VLESS | Latency: 1177ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.16.45.174:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#344 | VLESS | Latency: 1181ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.120.182:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#345 | VLESS | Latency: 1182ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.55.90:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#346 | VLESS | Latency: 1184ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@162.159.251.170:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#347 | VLESS | Latency: 1187ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.108.182:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#348 | VLESS | Latency: 1187ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.66.210.32:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#349 | VLESS | Latency: 1194ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.16.152.113:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#350 | VLESS | Latency: 1194ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@198.41.223.248:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#351 | VLESS | Latency: 1198ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.30.199:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#352 | VLESS | Latency: 1200ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.69.105:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#353 | VLESS | Latency: 1202ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.67.200.119:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#354 | VLESS | Latency: 1202ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.167.93:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#355 | VLESS | Latency: 1203ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.16.242.160:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#356 | VLESS | Latency: 1213ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.27.15.142:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#357 | VLESS | Latency: 1218ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.77.214:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#358 | VLESS | Latency: 1220ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.57.185:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#359 | VLESS | Latency: 1220ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.206.73:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#360 | VLESS | Latency: 1222ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.236.224:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#361 | VLESS | Latency: 1224ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.26.10.138:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#362 | VLESS | Latency: 1225ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.50.223:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#363 | VLESS | Latency: 1227ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.21.125:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#364 | VLESS | Latency: 1229ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.96.245:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#365 | VLESS | Latency: 1229ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.92.79:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#366 | VLESS | Latency: 1233ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.27.40.59:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#367 | VLESS | Latency: 1236ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.78.139:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#368 | VLESS | Latency: 1240ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@190.93.244.252:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#369 | VLESS | Latency: 1250ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.182.134:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#370 | VLESS | Latency: 1258ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.20.38.44:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#371 | VLESS | Latency: 1265ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.182.240:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#372 | VLESS | Latency: 1268ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.82.215:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#373 | VLESS | Latency: 1272ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.23.36:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#374 | VLESS | Latency: 1278ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.67.197.39:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#375 | VLESS | Latency: 1283ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.52.216:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#376 | VLESS | Latency: 1283ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.16.176.145:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#377 | VLESS | Latency: 1287ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.238.132:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#378 | VLESS | Latency: 1288ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.56.232:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#379 | VLESS | Latency: 1295ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.52.175:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#380 | VLESS | Latency: 1299ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.34.116:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#381 | VLESS | Latency: 1301ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.242.14:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#382 | VLESS | Latency: 1302ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.172.142:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#383 | VLESS | Latency: 1315ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.157.130:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#384 | VLESS | Latency: 1317ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.218.130:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#385 | VLESS | Latency: 1320ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@173.245.58.221:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#386 | VLESS | Latency: 1323ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.100.194:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#387 | VLESS | Latency: 1324ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.122.70:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#388 | VLESS | Latency: 1326ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@162.159.4.182:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#389 | VLESS | Latency: 1329ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@185.7.240.239:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#390 | VLESS | Latency: 1335ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.144.21:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#391 | VLESS | Latency: 1336ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.131.251:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#392 | VLESS | Latency: 1338ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.37.225:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#393 | VLESS | Latency: 1339ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.75.2:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#394 | VLESS | Latency: 1340ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@45.196.29.98:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#395 | VLESS | Latency: 1340ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.34.77:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#396 | VLESS | Latency: 1344ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.16.70.80:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#397 | VLESS | Latency: 1345ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.48.103:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#398 | VLESS | Latency: 1345ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.16.218.149:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#399 | VLESS | Latency: 1348ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.162.42:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#400 | VLESS | Latency: 1367ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.16.35.82:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#401 | VLESS | Latency: 1370ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.49.55:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#402 | VLESS | Latency: 1389ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.27.106.128:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#403 | VLESS | Latency: 1393ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.67.68.222:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#404 | VLESS | Latency: 1395ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.20.43.229:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#405 | VLESS | Latency: 1398ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.66.162.90:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#406 | VLESS | Latency: 1399ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@172.64.53.113:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#407 | VLESS | Latency: 1407ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.28.135:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#408 | VLESS | Latency: 1421ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.17.77.18:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#409 | VLESS | Latency: 1440ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.176.20:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#410 | VLESS | Latency: 1445ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.20.47.126:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#411 | VLESS | Latency: 1452ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.16.192.132:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#412 | VLESS | Latency: 1489ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.82.94:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#413 | VLESS | Latency: 1507ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.24.27.61:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#414 | VLESS | Latency: 1550ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.217.168:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#415 | VLESS | Latency: 1572ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.206.195:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#416 | VLESS | Latency: 1609ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.25.200.221:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#417 | VLESS | Latency: 1763ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.19.175.138:2086?security=&type=ws&path=/eyJqdW5rIjoiVUR3S2UzQklkMDY3TTNKYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#418 | VLESS | Latency: 1942ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.21.205.214:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
+#419 | VLESS | Latency: 1950ms
+vless://cc3c91d0-e39c-42d3-a378-815cb94eb20c@104.18.47.83:2086?security=&type=ws&path=/eyJqdW5rIjoiVGN1bDkzaXY5SHJoU2lMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&host=dawn-math-4e06.noahreynolds.workers.dev&encryption=none#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20:%202086
+----------------------------------------------------------------------
