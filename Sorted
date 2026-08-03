@@ -2,171 +2,152 @@
 WORKING CONFIGS — SORTED BY LATENCY
 ======================================================================
 
-#1 | VLESS | Latency: 428ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.194.199:22223?encryption=none&security=none&type=tcp#v2ray_dalghak1
+#1 | SHADOWSOCKS | Latency: 669ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#EPODONIOS
 ----------------------------------------------------------------------
-#2 | SHADOWSOCKS | Latency: 529ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJRQDgyLjM4LjMxLjE3Njo4MDgw#EPODONIOS
+#2 | SHADOWSOCKS | Latency: 828ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#EPODONIOS
 ----------------------------------------------------------------------
-#3 | VLESS | Latency: 529ms
-vless://49438e78-0148-a1d0-ffb5-63db11b86987@dl2dl2dl2.lornavps.ir:8855?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
+#3 | VLESS | Latency: 828ms
+vless://9c63fd59-f9ee-446e-97ec-0bf2de21ed7b@188.114.97.8:8443?path=%2FeyJqdW5rIjoiVVhGU1pOZ1oxaTFUUldyVCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=dry-glitter-ef10.gfryubcdryujvrth.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=dRy-GLITTer-ef10.gFRYubCdrYujVRtH.WorkErS.DEV#EPODONIOS
 ----------------------------------------------------------------------
-#4 | VLESS | Latency: 564ms
-vless://70df38ff-5a22-4ffc-a3f9-1725515e0ea5@205.237.109.210:448?security=reality&encryption=none&pbk=IuB1jsALd-wN_8jRTGxVLBbVG5eSxNbOXjvFyZlm3UU&headerType=none&type=tcp&sni=www.samsung.com&sid=113241ad01e99a2d#EPODONIOS
+#4 | VLESS | Latency: 841ms
+vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?path=/&security=&encryption=none&host=mypanel.unixzone.us&type=ws#Unblocked_ir
 ----------------------------------------------------------------------
-#5 | VLESS | Latency: 570ms
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.194.199:22224?encryption=none&security=none&type=tcp#v2ray_dalghak1
+#5 | SHADOWSOCKS | Latency: 848ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443#@meliproxyy
 ----------------------------------------------------------------------
-#6 | SHADOWSOCKS | Latency: 579ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@188.41.249.20:1080?#EPODONIOS
+#6 | VLESS | Latency: 862ms
+vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@159.69.193.221:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@mehrosaboran
 ----------------------------------------------------------------------
-#7 | SHADOWSOCKS | Latency: 586ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@Vpna.Poorifast.ir:1080#EPODONIOS
+#7 | VLESS | Latency: 872ms
+vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@168.119.156.100:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 ----------------------------------------------------------------------
-#8 | VLESS | Latency: 590ms
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.exodnsdir.xyz:8880?encryption=none&type=grpc&authority=v2rayNplus--v2rayNplus--v2rayNplus&mode=gun#EPODONIOS
+#8 | SHADOWSOCKS | Latency: 873ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.184-0108
 ----------------------------------------------------------------------
-#9 | VMESS | Latency: 610ms
-vmess://eyJhZGQiOiAiNS4xODguMTkwLjI1MiIsICJhaWQiOiAiMCIsICJhbHBuIjogbnVsbCwgImZwIjogImNocm9tZSIsICJob3N0IjogIiIsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAibmFtZSI6ICJUUiDwn4e58J+HtyB8IEBSYXlkaWthbHggfCAzMzY4IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAyMjMyNCwgInNjeSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogbnVsbCwgInRscyI6ICIiLCAidHlwZSI6IG51bGwsICJ2IjogbnVsbCwgInBzIjogIkVQT0RPTklPUyJ9
+#9 | VLESS | Latency: 878ms
+vless://de5dcb9e-6a72-45a2-8d3d-de00e5431426@49.13.232.160:22012?encryption=none&fp=&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&security=reality&sid=c6e19c434dc87df7&sni=login.yahoo.com&type=tcp#EPODONIOS
 ----------------------------------------------------------------------
-#10 | VLESS | Latency: 616ms
-vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&security=reality&sid=c84f&sni=deepl.com&type=tcp#EPODONIOS
+#10 | VLESS | Latency: 898ms
+vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@104.18.32.47:2053?path=/J5aLQOY1R9ONWYCM&security=tls&encryption=none&insecure=0&host=ov.iran-servers.shop&fp=chrome&type=ws&allowInsecure=0&sni=ov.iran-servers.shop#EPODONIOS
 ----------------------------------------------------------------------
-#11 | SHADOWSOCKS | Latency: 627ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@188.41.249.20:1080#%40filembad
+#11 | VLESS | Latency: 900ms
+vless://7ff55eb0-eff4-4d71-ad1c-e6fe1a6c68d9@159.69.192.171:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Unblocked_ir
 ----------------------------------------------------------------------
-#12 | SHADOWSOCKS | Latency: 635ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443#EPODONIOS
+#12 | SHADOWSOCKS | Latency: 908ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443#mtmvpn
 ----------------------------------------------------------------------
-#13 | SHADOWSOCKS | Latency: 660ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiQm5WMzZ0enQ3TUtWNzVhRFpUYnpH@141.227.152.129:8388#
+#13 | SHADOWSOCKS | Latency: 917ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#EPODONIOS
 ----------------------------------------------------------------------
-#14 | VLESS | Latency: 670ms
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.20.39.109:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#EPODONIOS
+#14 | VLESS | Latency: 918ms
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.156:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=chrome&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#🇳🇱
 ----------------------------------------------------------------------
-#15 | VMESS | Latency: 672ms
-vmess://eyJhZGQiOiAiNS4xODguMTkwLjI1MiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICJjaHJvbWUiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicGNzIjogIiIsICJwb3J0IjogIjIyMzI0IiwgInBzIjogIkVQT0RPTklPUyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=
+#15 | TROJAN | Latency: 939ms
+trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2raybaaz
 ----------------------------------------------------------------------
-#16 | VLESS | Latency: 672ms
-vless://23a9b46e-9443-4268-81c5-399929919ab0@155.103.69.195:48711?security=none&encryption=none&host=snapp.ir&headerType=http&type=tcp#EPODONIOS
+#16 | SHADOWSOCKS | Latency: 961ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#@Rayan_Config-82.38.31.194-@beepassvpn_bot
 ----------------------------------------------------------------------
-#17 | TROJAN | Latency: 682ms
-trojan://521314@millionaire.levikogjgfdd.ir:443?host=tjplay.lxdxo.kdns.fr&path=%2FLeviko_v2ray&sni=tjplay.lxdxo.kdns.fr&type=ws#EPODONIOS
+#17 | TROJAN | Latency: 965ms
+trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 ----------------------------------------------------------------------
-#18 | VLESS | Latency: 718ms
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@86.107.197.239:443?security=tls&type=ws&path=/sg-melbi&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome#EPODONIOS
+#18 | VLESS | Latency: 969ms
+vless://5de3f60c-7cc2-4f66-9177-706a2693dc19@62.238.55.96:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#kurdconfig
 ----------------------------------------------------------------------
-#19 | VMESS | Latency: 722ms
-vmess://eyJhZGQiOiAiMjE2LjEwNi4xODMuMzUiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjIzMjQiLCAicHMiOiAiRVBPRE9OSU9TIiwgInNjeSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
+#19 | SHADOWSOCKS | Latency: 976ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#@VpnCostumer+|+بیا+تو+وصل+باش+💙
 ----------------------------------------------------------------------
-#20 | VLESS | Latency: 741ms
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@nl1.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&host=Telegram-Leviko_v2ray&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#v2ray_dalghak1
+#20 | VLESS | Latency: 979ms
+vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@62.238.53.197:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%3E%3E%40freeland8%3A%3AFI
 ----------------------------------------------------------------------
-#21 | VMESS | Latency: 766ms
-vmess://eyJhZGQiOiAiNjcuMjIwLjk1LjMiLCAiYWlkIjogMCwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsICJuZXQiOiAidGNwIiwgInBvcnQiOiAxODAwMCwgInBzIjogIkVQT0RPTklPUyIsICJzY3kiOiAiYWVzLTEyOC1nY20iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+#21 | VLESS | Latency: 983ms
+vless://444f3779-cc79-4289-b22b-f75bc84be25e@soskeynets.ssdhdd.org:443/?type=tcp&encryption=none&flow=&sni=tasnimnews.ir&fp=chrome&security=reality&pbk=pvY1bX3eh_RHA2foDr82nB-0UgXu1uO7xjtYKRSFuCs&sid=3b225391611b29e5&packetEncoding=xudp#EPODONIOS
 ----------------------------------------------------------------------
-#22 | VLESS | Latency: 788ms
-vless://7ff55eb0-eff4-4d71-ad1c-e6fe1a6c68d9@159.69.192.171:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
+#22 | VLESS | Latency: 996ms
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.44:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new-1.ariyuz.org#@irconfiig
 ----------------------------------------------------------------------
-#23 | VLESS | Latency: 791ms
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@it1.levikogjgfdd.ir:8880?encryption=none&security=none&type=grpc#EPODONIOS
+#23 | VLESS | Latency: 1001ms
+vless://a67f0c92-2a75-4db4-af3b-46f4904c8d28@kakaG.tempfast.ir:33786?security=reality&encryption=none&pbk=tPl3qHlJ_ZPX_jXBA8i1j_dmQBMhJ31qk4HQlXjntmE&headerType=none&fp=chrome&type=tcp&sni=icloud.com&sid=f55c53dfd45cfc6d#🔵@chillguy_vpn
 ----------------------------------------------------------------------
-#24 | SHADOWSOCKS | Latency: 792ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.29:443#EPODONIOS
+#24 | VLESS | Latency: 1003ms
+vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@169.40.1.247:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=N-ELdH_KBkeqUT4I7PknCV9hFvlSFjN-52fDLwIzbRs&security=reality&sid=4e9b0c2d1a3f5768&sni=lt.tunnelx.space&type=tcp#🇱🇻LV-🚀@VPNine1
 ----------------------------------------------------------------------
-#25 | VMESS | Latency: 799ms
-vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni4yMzMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAidjJyYXlOcGx1cy0tdjJyYXlOcGx1cy0tdjJyYXlOcGx1cyIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICIxODAiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=
+#25 | VLESS | Latency: 1021ms
+vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@62.238.63.51:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@FarazV2ray
 ----------------------------------------------------------------------
-#26 | SHADOWSOCKS | Latency: 811ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.15:443#V2ray_Alpha%F0%9F%9A%9D%207
+#26 | VLESS | Latency: 1026ms
+vless://5910d5d4-d670-4cf2-b875-72bfef693c56@104.17.108.1:443?insecure=1&host=aa.farxmode.ir&sni=aa.farxmode.ir&type=xhttp&path=/&alpn=h2,http/1.1&encryption=none&fp=chrome&allowInsecure=1&security=tls&mode=packet-up#@Alpha_v2rayIP
 ----------------------------------------------------------------------
-#27 | SHADOWSOCKS | Latency: 811ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443#
+#27 | SHADOWSOCKS | Latency: 1035ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#@Rayan_Config-82.38.31.190-@beepassvpn_bot
 ----------------------------------------------------------------------
-#28 | VLESS | Latency: 824ms
-vless://29ca503d-e6b8-4509-b666-48133f450857@millionaire.levikogjgfdd.ir:443?path=/fdip&security=tls&encryption=none&host=learn00.evany.de5.net&type=ws&sni=learn00.evany.de5.net#EPODONIOS
+#28 | VLESS | Latency: 1041ms
+vless://9913a211-19e0-4c7f-b813-841d30d28168@s1.esantion.info:24206?encryption=none&type=httpupgrade&path=/?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#@EVAY_VPN
 ----------------------------------------------------------------------
-#29 | SHADOWSOCKS | Latency: 848ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.28:8080#EPODONIOS
+#29 | VLESS | Latency: 1042ms
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@193.124.36.234:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&security=reality&sid=fdda9806fe5d8584&sni=fl09.skorostnet.space&type=tcp#🇦🇪AE-🚀@VPNine1
 ----------------------------------------------------------------------
-#30 | SHADOWSOCKS | Latency: 853ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#EPODONIOS
+#30 | SHADOWSOCKS | Latency: 1058ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#TEL;Father_vpn
 ----------------------------------------------------------------------
-#31 | SHADOWSOCKS | Latency: 873ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080#EPODONIOS
+#31 | VLESS | Latency: 1062ms
+vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@159.69.193.221:1234?security=none&encryption=none&host=play.google.com/?JOIN_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@outline_ir
 ----------------------------------------------------------------------
-#32 | VLESS | Latency: 874ms
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@it1.levikogjgfdd.ir:8880?encryption=none&type=grpc&mode=gun&security=none#EPODONIOS
+#32 | VLESS | Latency: 1069ms
+vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@159.69.193.221:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#برای
 ----------------------------------------------------------------------
-#33 | VLESS | Latency: 885ms
-vless://dd280dbb-75ec-4631-9979-d65237e27185@5.175.136.134:2053?mode=auto&path=/&security=reality&encryption=none&pbk=AsmltIw-2fVcbpcbckmIJZrWiVyDW_Kid8VIvHkcmC4&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=81053c0bc6adc9#EPODONIOS
+#33 | SHADOWSOCKS | Latency: 1070ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiU09PalRuSXV0d21UYjluVG5JS20z@creativeboxde2.zanity.net:5223#🇺🇸US-🚀@VPNine1
 ----------------------------------------------------------------------
-#34 | SHADOWSOCKS | Latency: 887ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443#EPODONIOS
+#34 | SHADOWSOCKS | Latency: 1075ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#EPODONIOS
 ----------------------------------------------------------------------
-#35 | VLESS | Latency: 899ms
-vless://b8ae8186-22ed-413b-b0de-dc590bbbc3bc@de.hunerux.oorluma.ir:6500?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#EPODONIOS
+#35 | VLESS | Latency: 1082ms
+vless://6f98a077-004e-4b86-8b78-8d09308d3868@196.240.57.50:443?mode=auto&security=reality&encryption=none&pbk=XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs&fp=chrome&type=xhttp&sni=stats.vk-portal.net&sid=992f3294e2336744#EPODONIOS
 ----------------------------------------------------------------------
-#36 | VLESS | Latency: 900ms
-vless://23a9b46e-9443-4268-81c5-399929919ab0@155.103.69.195:48711?encryption=none&headerType=http&host=snapp.ir&path=%2F&security=none&type=tcp#EPODONIOS
+#36 | VLESS | Latency: 1092ms
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo15.fordnsdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#🇮🇹
 ----------------------------------------------------------------------
-#37 | VLESS | Latency: 911ms
-vless://b4883d27-3151-4adf-92b1-841c0dccd1ea@172.64.88.168:8880?encryption=none&host=damp-surf-aacf.296-8ed.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#EPODONIOS
+#37 | VLESS | Latency: 1106ms
+vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@169.40.1.247:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=N-ELdH_KBkeqUT4I7PknCV9hFvlSFjN-52fDLwIzbRs&security=reality&sid=4e9b0c2d1a3f5768&sni=lt.tunnelx.space&type=tcp#EPODONIOS
 ----------------------------------------------------------------------
-#38 | VMESS | Latency: 939ms
-vmess://eyJ2IjogIjIiLCAicHMiOiAiRVBPRE9OSU9TIiwgImFkZCI6ICI1LjE4OC4xOTAuMjUyIiwgInBvcnQiOiAiMjIzMjQiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiY2hyb21lIiwgImluc2VjdXJlIjogIjAiLCAidmNuIjogIiIsICJwY3MiOiAiIn0=
+#38 | VLESS | Latency: 1114ms
+vless://ef9d2063-0140-472b-8b17-ba02ba4b4435@108.162.198.253:8443?encryption=none&fp=chrome&host=lively-resonance-4e12.electrocellco-cf-059.workers.dev&path=%2Fproxyip%3D167.71.48.187&security=tls&sni=lively-resonance-4e12.electrocellco-cf-059.workers.dev&type=ws#EPODONIOS
 ----------------------------------------------------------------------
-#39 | VMESS | Latency: 942ms
-vmess://eyJhZGQiOiI1LjE4OC4xOTAuMjUyIiwiYWlkIjoiMCIsImFscG4iOm51bGwsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmFtZSI6IlRSIFx1ZDgzY1x1ZGRmOVx1ZDgzY1x1ZGRmNyB8IEBSYXlkaWthbHggfCAzMzY4IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoyMjMyNCwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6bnVsbCwidGxzIjoiIiwidHlwZSI6bnVsbCwidiI6bnVsbCwicHMiOiJcdWQ4M2NcdWRmZjNcdWZlMGYgSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIFx1ZDgzY1x1ZGZmM1x1ZmUwZiJ9
+#39 | TROJAN | Latency: 1120ms
+trojan://521314@millionaire.levikogjgfdd.ir:443?path=/Leviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#@vpnbaz
 ----------------------------------------------------------------------
-#40 | VLESS | Latency: 945ms
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.exodnsdir.xyz:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM?=@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2&type=grpc#EPODONIOS
+#40 | VLESS | Latency: 1120ms
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@95.85.247.7:443?security=reality&encryption=none&pbk=4-bYlfzBxbmfxZa5uFAobphk74V83FF5Y1lbo9l8RWQ&headerType=none&fp=chrome&spx=/&type=tcp&sni=cats.abvphelp.cc&sid=50c30ab7#@meliproxyy
 ----------------------------------------------------------------------
-#41 | VMESS | Latency: 963ms
-vmess://eyJ2IjogIjIiLCAicHMiOiAiRVBPRE9OSU9TIiwgImFkZCI6ICI4Mi4xOTguMjQ2Ljk3IiwgInBvcnQiOiAiMTgwIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIm9uZS5jZi5jZG4uaHlsaS54eXoiLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaW5zZWN1cmUiOiAiMCIsICJ2Y24iOiAiIiwgInBjcyI6ICIifQ==
+#41 | TROJAN | Latency: 1122ms
+trojan://521314@millionaire.levikogjgfdd.ir:443?path=/Leviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#🎒36@configprxy
 ----------------------------------------------------------------------
-#42 | SHADOWSOCKS | Latency: 976ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#EPODONIOS
+#42 | VLESS | Latency: 1135ms
+vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@167.233.47.127:1234?security=none&encryption=none&host=play.google.com/?JOIN_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#EPODONIOS
 ----------------------------------------------------------------------
-#43 | TROJAN | Latency: 996ms
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=de.catxstar.com#EPODONIOS
+#43 | VLESS | Latency: 1136ms
+vless://be4494a3-9544-4eb6-b166-5a733706d505@89.105.210.100:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&security=reality&sid=6d6f13013d3e1d0c&sni=ru-1.videoproeditor.com&type=tcp#🧬63@oneclickvpnkeys
 ----------------------------------------------------------------------
-#44 | SHADOWSOCKS | Latency: 1025ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.32:443#EPODONIOS
+#44 | VLESS | Latency: 1143ms
+vless://6f98a077-004e-4b86-8b78-8d09308d3868@196.240.57.50:443?mode=auto&security=reality&encryption=none&pbk=XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs&fp=chrome&type=xhttp&sni=stats.vk-portal.net&sid=992f3294e2336744#Proxy_mtm
 ----------------------------------------------------------------------
-#45 | VLESS | Latency: 1036ms
-vless://12a87229-3370-44af-bfe3-bc33caefde97@tezol.ozanver.ir:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=&path=%2F&security=tls&sni=tezol.ozanver.ir&type=ws#v2ray_dalghak1
+#45 | TROJAN | Latency: 1147ms
+trojan://MiTiVPN@172.66.40.99:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/fl---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=Flll-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR#EPODONIOS
 ----------------------------------------------------------------------
-#46 | SHADOWSOCKS | Latency: 1043ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.49:8080#EPODONIOS
+#46 | VLESS | Latency: 1155ms
+vless://f3d2dbde-f8c1-4fd1-a4ff-32c2fd476d65@nod3.kaafserver.ir:8443?security=reality&encryption=none&pbk=QCLXkk19RkRbBuMqyCggYr_57_eT9f3Xe-vnr_IrQhY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=79b983feac02921c#EPODONIOS
 ----------------------------------------------------------------------
-#47 | VLESS | Latency: 1045ms
-vless://0b8dfc50-9e2d-4b3c-85cd-870b478312a0@45.192.2.115:443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=f34818a561dfd1fe#EPODONIOS
+#47 | VLESS | Latency: 1168ms
+vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@93.152.223.98:443?security=reality&encryption=none&pbk=QocXHwad0mV7WA5jSAcqDac3uuVBEp1WF775-CilniE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=45ba18f429ad1f28#@icv2ray
 ----------------------------------------------------------------------
-#48 | VLESS | Latency: 1067ms
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053/?type=ws&encryption=none&flow=&host=josni.hoyes.cloudns.ch&path=/&security=tls&sni=josni.hoyes.cloudns.ch#EPODONIOS
+#48 | SHADOWSOCKS | Latency: 1168ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.212:8080#@Shh_Proxy-New⁴
 ----------------------------------------------------------------------
-#49 | VLESS | Latency: 1126ms
-vless://9913a211-19e0-4c7f-b813-841d30d28168@s1.esantion.info:24206?encryption=none&type=httpupgrade&path=/?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#EPODONIOS
+#49 | VLESS | Latency: 1174ms
+vless://f62d35a6-49ed-4b93-b504-b021cb2755ab@www.speedtest.net:443?encryption=none&security=tls&sni=bpB-b589C199.sdvSDC.wORkERS.deV&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=bpb-b589c199.sdvsdc.workers.dev&path=/eyJqdW5rIjoiNVpNbHhpeDVhbnFZVWNQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560#💎
 ----------------------------------------------------------------------
-#50 | VLESS | Latency: 1131ms
-vless://e2c8fa8c-886d-4649-bd59-cf73bee48b55@45.125.32.115:443?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-----------------------------------------------------------------------
-#51 | VLESS | Latency: 1143ms
-vless://9a274b1d-788c-4a15-b3fa-7ea525198362@94.130.179.44:1234?encryption=none&type=tcp&headerType=http&host=play.google.com&security=none#EPODONIOS
-----------------------------------------------------------------------
-#52 | VLESS | Latency: 1166ms
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.20.39.109:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=/sg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#EPODONIOS
-----------------------------------------------------------------------
-#53 | SHADOWSOCKS | Latency: 1176ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#EPODONIOS
-----------------------------------------------------------------------
-#54 | SHADOWSOCKS | Latency: 1187ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#EPODONIOS
-----------------------------------------------------------------------
-#55 | SHADOWSOCKS | Latency: 1215ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#EPODONIOS
-----------------------------------------------------------------------
-#56 | SHADOWSOCKS | Latency: 1486ms
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@156.244.32.9:7002#
-----------------------------------------------------------------------
+#50 | VLESS | Latency: 1182ms
+vless://cf0248f7-afaa-49fd-821e-6adc951df1a5@www.speedtest.net:443?encryption=none&security=tls&sni=BPb-C4AfEfbB.djFvbKjDfV.woRKeRs.dev&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=bpb-c4afefbb.djfvbkjdfv.workers.dev&path=/eyJqdW5rIjoibzdETUxDZXk3RjNkY1BBIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560#🚀
