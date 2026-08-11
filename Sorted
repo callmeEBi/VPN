@@ -1,51 +1,124 @@
-vless://564082ff-cf3c-48db-9e10-8ad2312847b4@144.31.65.59:443?security=reality&sni=node17.mxvpn.dev&fp=chrome&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20870357
-vless://d9aa9ea3-9388-483f-a58d-a754f33ec505@57.129.141.109:2053?security=reality&sni=play.google.com&fp=firefox&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&sid=524efc1f88592266&type=grpc&serviceName=api.v1.data&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20963233
-vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?security=&type=ws&path=/vless/&host=OV-Italy1.09vpn.com&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20134382
-vless://b2e8f455-3bd9-477c-b8f0-a3198f601565@54.38.138.175:443?security=reality&sni=play.google.com&fp=chrome&pbk=LrDYMSt1pt2h6n-7YnHpcUAb_IG7QsQ0rfXz8RqkfCY&sid=9e0fac51cc19d2&type=tcp&path=/naranv2ray&headerType=http&host=&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20369217
-trojan://humanity@104.19.64.105:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&host=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20748094
-vless://6d613d5f-1d65-48ca-b2e8-d83a2c3a17d9@104.21.88.129:8880?security=&type=ws&path=/pyip%3DProxyIP.JP.CMLiussss.net&host=tight-star-08eb.331-729.workers.dev&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20466586
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?security=tls&sni=secure.furrycdn.net&fp=chrome&type=raw&flow=xtls-rprx-vision&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20969404
-vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@147.45.47.47:443?security=reality&sni=sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=raw&flow=xtls-rprx-vision&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20544678
-trojan://ND91608427@13.36.175.151:443?security=tls&sni=classic-gator.rooster465.autos&fp=chrome&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20933609
-vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@109.69.218.168:443?security=reality&sni=agile-raptor.cdn.cachefleet.com&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20209364
-trojan://ND91608427@44.246.163.102:443?security=tls&sni=fleet-bonefish.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20959315
-vless://98262dbd-3606-437b-b12e-3f38ca62522f@104.21.0.119:443?security=tls&sni=1.rmgyvpn.rest&fp=chrome&type=ws&path=/ws-cdn&host=1.rmgyvpn.rest&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20633102
-vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@109.69.218.164:443?security=reality&sni=zealous-vortex.cdn.cachefleet.com&fp=chrome&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20296776
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.28.234:443?security=tls&sni=josni.hoyes.cloudns.ch&allowInsecure=1&type=ws&path=/sg-melbi&host=josni.hoyes.cloudns.ch&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20357226
-trojan://humanity@104.17.121.43:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&host=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20442870
-trojan://UO36402987@34.251.228.118:443?security=tls&sni=definite-ladybird.rooster465.autos&fp=chrome&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20465102
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?security=tls&sni=josni.hoyes.cloudns.ch&type=ws&path=/sg-melbi/mtmvpn---mtmvpn---@mtmvpn---@mtmvpn---@mtmvpn---@mtmvpn---@mtmvpn---@mtmvpn---@mtmvpn---@mtmvpn---@mtmvpn---@mtmvpn---@mtmvpn---@mtmvpn---@mtmvpn---@mtmvpn&host=josni.hoyes.cloudns.ch&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20739705
-vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@109.69.218.164:443?security=reality&sni=zealous-vortex.cdn.cachefleet.com&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20638597
-trojan://ND91608427@52.194.230.221:443?security=tls&sni=happy-mutt.rooster465.autos&fp=chrome&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20934488
-trojan://ND91608427@3.112.238.99:443?security=tls&sni=stunning-mite.rooster465.autos&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20369698
-trojan://ND91608427@44.246.163.102:443?security=tls&sni=fleet-bonefish.rooster465.autos&fp=chrome&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20884104
-trojan://humanity@212.183.88.136:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&host=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20422408
-vless://8787dd0a-095a-414e-804f-a7d16a1ae166@217.154.244.251:8443?security=tls&sni=de1.hys.braidx.tech&alpn=http/1.1&allowInsecure=1&fp=firefox&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20438259
-trojan://UO36402987@54.216.124.178:443?security=tls&sni=warm-bass.rooster465.autos&fp=chrome&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20186270
-trojan://ND91608427@35.72.13.34:443?security=tls&sni=casual-bee.rooster465.autos&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20930109
-trojan://ND91608427@3.64.59.246:443?security=tls&sni=gentle-raptor.rooster465.autos&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20184850
-vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?security=tls&sni=nasnet-162191099-direct.mbghalibaf.com&alpn=h2&fp=chrome&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20360015
-trojan://UO36402987@34.251.228.118:443?security=tls&sni=definite-ladybird.rooster465.autos&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20640156
-trojan://ND91608427@18.181.194.227:443?security=tls&sni=moral-buzzard.rooster465.autos&fp=chrome&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20461458
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.197:23576?security=reality&sni=fuck.rkn&allowInsecure=1&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20255424
-trojan://ND91608427@3.36.131.218:443?security=tls&sni=humorous-malamute.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20496227
-vless://5bbf0601-8431-45f6-a4e9-a1e8b44c0055@172.67.152.71:8880?security=&type=ws&path=/pyip%3DProxyIP.KR.CMLiussss.net&host=misty-mouse-141d.177-f18.workers.dev&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20458971
-trojan://ND91608427@57.180.13.78:443?security=tls&sni=healthy-louse.rooster465.autos&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20698771
-trojan://ND91608427@3.113.24.17:443?security=tls&sni=nearby-egret.rooster465.autos&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20321706
-trojan://ND91608427@54.217.133.71:443?security=tls&sni=willing-beagle.rooster465.autos&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20569050
-vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@104.18.28.234:2053?security=tls&sni=ov.iran-servers.shop&allowInsecure=1&fp=chrome&type=ws&path=/J5aLQOY1R9ONWYCM&host=ov.iran-servers.shop&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20844878
-vless://5bbf0601-8431-45f6-a4e9-a1e8b44c0055@172.67.152.71:8880?security=&type=ws&path=/pyip%3DProxyIP.KR.CMLiussss.net&host=misty-mouse-141d.177-f18.workers.dev&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20851806
-vless://a21b9103-1693-49c1-8dc9-e8e8098ee969@188.164.248.69:443?security=tls&sni=free-7f1.pages.dev&fp=chrome&type=ws&path=/&host=free-7f1.pages.dev&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20175755
-trojan://ND91608427@44.246.163.102:443?security=tls&sni=fleet-bonefish.rooster465.autos&fp=chrome&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20725658
-trojan://ND91608427@3.64.59.246:443?security=tls&sni=gentle-raptor.rooster465.autos&fp=chrome&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20121006
-trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&allowInsecure=1&type=ws&path=/assignment&host=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20861173
-trojan://ND91608427@52.196.121.8:443?security=tls&sni=thankful-mustang.rooster465.autos&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20375641
-vless://33918b20-9e02-4dc6-8b30-79b2d4b2e0e6@104.21.22.180:443?security=tls&sni=aUTo-sCALe-238B2B.infRa-CorE-1630dd.wORKerS.DEv&alpn=http/1.1&type=ws&path=/eyJqdW5rIjoiUjJBU3JkVlRwSWtnciIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbImJwYi55b3VzZWYuaXNlZ2Fyby5jb20iXX0&host=aUto-scaLe-238B2B.inFra-coRE-1630dD.WorKerS.DeV&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20173179
-trojan://ND91608427@43.201.46.108:443?security=tls&sni=exotic-chow.rooster465.autos&fp=chrome&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20502305
-trojan://ND91608427@3.112.238.99:443?security=tls&sni=stunning-mite.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20166888
-trojan://ND91608427@35.72.13.34:443?security=tls&sni=casual-bee.rooster465.autos&fp=chrome&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20962342
-trojan://ND91608427@13.36.175.151:443?security=tls&sni=classic-gator.rooster465.autos&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20480435
-trojan://ND91608427@44.246.163.102:443?security=tls&sni=fleet-bonefish.rooster465.autos&fp=chrome&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20579230
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.227.216:62145?security=&type=tcp&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20607951
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@77.222.46.162:2200?security=&type=ws&path=/v1&host=77.222.46.162&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20897993
-trojan://ND91608427@13.36.175.151:443?security=tls&sni=classic-gator.rooster465.autos&fp=chrome&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20922381
+======================================================================
+WORKING CONFIGS SORTED BY LATENCY
+======================================================================
+
+#1 | VLESS | Latency: 348ms (10/10 OK)
+vless://af9471f2-9344-4d84-9fe1-72a264fde38e@153.80.241.60:8443?security=reality&sni=www.apple.com&fp=chrome&pbk=CX5f7EdRDtVEgZIgh_ZLE7xYOntoVpk2S_t9EFraJGs&type=tcp&flow=xtls-rprx-vision&encryption=none#[OpenRay]%20%F0%9F%87%AB%F0%9F%87%AE%20FI-4942
+----------------------------------------------------------------------
+#2 | VLESS | Latency: 374ms (6/10 OK)
+vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?security=reality&sni=www.googletagmanager.com&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&sid=8433cb66b6c3ab6d&type=tcp&flow=xtls-rprx-vision&encryption=none#[OpenRay]%20%F0%9F%87%AA%F0%9F%87%AA%20EE-634
+----------------------------------------------------------------------
+#3 | TROJAN | Latency: 472ms (10/10 OK)
+trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&path=/assignment&host=www.calmlunch.com#[OpenRay]%20Dynamic-11959
+----------------------------------------------------------------------
+#4 | VLESS | Latency: 478ms (10/10 OK)
+vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?security=reality&sni=deepl.com&pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&sid=aae8&type=tcp&encryption=none#[OpenRay]%20%F0%9F%87%BA%F0%9F%87%B8%20US-22619
+----------------------------------------------------------------------
+#5 | VLESS | Latency: 489ms (10/10 OK)
+vless://8033102198@138.124.100.128:443?security=tls&sni=ee4.fast-connect-service.site&fp=firefox&type=tcp&flow=xtls-rprx-vision&encryption=none#[OpenRay]%20%F0%9F%87%AA%F0%9F%87%AA%20EE-665
+----------------------------------------------------------------------
+#6 | VMESS | Latency: 500ms (10/10 OK)
+vmess://eyJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwiYWlkIjoiMCIsImhvc3QiOiJ3d3cubmludGVuZG9nYW1lcy5uZXQiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjE4MCIsInBzIjoiW09wZW5SYXldIPCfh7rwn4e4IFVTLTIyMjI2Iiwic2N5IjoiYXV0byIsInNuaSI6Ind3dy5uaW50ZW5kb2dhbWVzLm5ldCIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+----------------------------------------------------------------------
+#7 | VMESS | Latency: 517ms (8/10 OK)
+vmess://eyJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwiYWlkIjoiMCIsImhvc3QiOiJuMTc0NDQ1NDQ5OC5saWU1ZC5jeW91IiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxODAiLCJwcyI6IltPcGVuUmF5XSDwn4e68J+HuCBVUy0yMTE5NyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+----------------------------------------------------------------------
+#8 | VMESS | Latency: 538ms (10/10 OK)
+vmess://eyJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwiYWlkIjoiMCIsImhvc3QiOiJjZi4xMzA1MTkueHl6IiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxODAiLCJwcyI6IltPcGVuUmF5XSDwn4e68J+HuCBVUy0xNjUyNyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+----------------------------------------------------------------------
+#9 | VLESS | Latency: 548ms (10/10 OK)
+vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=reality&sni=deepl.com&fp=qq&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&sid=c84f&type=tcp&flow=xtls-rprx-vision&encryption=none#[OpenRay]%20%F0%9F%87%B3%F0%9F%87%B1%20NL-8614
+----------------------------------------------------------------------
+#10 | VMESS | Latency: 577ms (10/10 OK)
+vmess://eyJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwiYWlkIjoiMCIsImhvc3QiOiJzbmkubGF0b255YW1hZGVsaW5lLm5kanAubmV0IiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLz9odHRwcyUzQSUyRiUyRnQubWUlMkZ3YW5nY2FpMiVGMCU5RiU4NyVBOCVGMCU5RiU4NyVCMz0iLCJwb3J0IjoiMTgwIiwicHMiOiJbT3BlblJheV0g8J+HuvCfh7ggVVMtMTY2NjEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+----------------------------------------------------------------------
+#11 | VLESS | Latency: 584ms (10/10 OK)
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&flow=xtls-rprx-vision&encryption=none#[OpenRay]%20%F0%9F%87%BA%F0%9F%87%B8%20US-23668
+----------------------------------------------------------------------
+#12 | VMESS | Latency: 592ms (10/10 OK)
+vmess://eyJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwiYWlkIjoiMCIsImhvc3QiOiJzbmkubGF0b255YW1hZGVsaW5lLm5kanAubmV0IiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLz9odHRwczovL3QubWUvd2FuZ2NhaTLwn4eo8J+Hsz0iLCJwb3J0IjoiMTgwIiwicHMiOiJbT3BlblJheV0g8J+HuvCfh7ggVVMtMjE0MzIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+----------------------------------------------------------------------
+#13 | VMESS | Latency: 597ms (9/10 OK)
+vmess://eyJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwiYWlkIjoiMCIsImhvc3QiOiJqb3NzLmdwajQud2ViLmlkIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxODAiLCJwcyI6IltPcGVuUmF5XSDwn4e68J+HuCBVUy0yMjIxOCIsInNjeSI6ImF1dG8iLCJzbmkiOiJqb3NzLmdwajQud2ViLmlkIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+----------------------------------------------------------------------
+#14 | VLESS | Latency: 615ms (10/10 OK)
+vless://d6bdda67-168d-4501-a2c1-ef01070cb327@crimson-smoke-7818.397.workers.dev:8880?security=&type=ws&path=/pyip%3DProxyIP.KR.CMLiussss.net&encryption=none#[OpenRay]%20Dynamic-25572
+----------------------------------------------------------------------
+#15 | VLESS | Latency: 623ms (10/10 OK)
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&flow=xtls-rprx-vision&encryption=none#[OpenRay]%20%F0%9F%87%AB%F0%9F%87%B7%20FR-3859
+----------------------------------------------------------------------
+#16 | VLESS | Latency: 627ms (9/10 OK)
+vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@apro.foot8all.ir:3389?security=reality&sni=play.google.com&fp=firefox&pbk=NSlhQMA6VBgHPp7RsErk3hEdKuWPO0eeLdxgssfwbmY&sid=c6cbc90da6316b21&type=tcp&encryption=none#[OpenRay]%20%F0%9F%87%AB%F0%9F%87%AE%20FI-4937
+----------------------------------------------------------------------
+#17 | VLESS | Latency: 637ms (10/10 OK)
+vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&sid=3d3c1e645f763ee3&type=tcp&flow=xtls-rprx-vision&encryption=none#[OpenRay]%20%F0%9F%87%A8%F0%9F%87%A6%20CA-22573
+----------------------------------------------------------------------
+#18 | VMESS | Latency: 641ms (10/10 OK)
+vmess://eyJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwiYWlkIjoiMCIsImhvc3QiOiJ3d3cuYmluZy5jb20iLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsIm5ldCI6InRjcCIsInBhdGgiOiIvZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJwb3J0IjoiMTgwIiwicHMiOiJbT3BlblJheV0g8J+HuvCfh7ggVVMtMjE1MDQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+----------------------------------------------------------------------
+#19 | VLESS | Latency: 647ms (10/10 OK)
+vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@soskeynets.mbcloudynias.ir:3389?security=reality&sni=play.google.com&fp=chrome&pbk=NSlhQMA6VBgHPp7RsErk3hEdKuWPO0eeLdxgssfwbmY&sid=d55a6f43c645adb4&type=tcp&encryption=none#[OpenRay]%20%F0%9F%87%A9%F0%9F%87%AA%20DE-22005
+----------------------------------------------------------------------
+#20 | VMESS | Latency: 654ms (10/10 OK)
+vmess://eyJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwiYWlkIjoiMCIsImhvc3QiOiJkRGRGZkdUSFlVLjkyMjkyMi5TSE9QIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL1JrVVVicWhBOUdKWkJST2pMM1E1dlR5bXIiLCJwb3J0IjoiMTgwIiwicHMiOiJbT3BlblJheV0g8J+HuvCfh7ggVVMtMTE0NTIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+----------------------------------------------------------------------
+#21 | VMESS | Latency: 656ms (10/10 OK)
+vmess://eyJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwiYWlkIjoiMCIsImhvc3QiOiJ0aWFuaml1LnBhZ2VzLmRldiIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTgwIiwicHMiOiJbT3BlblJheV0g8J+HuvCfh7ggVVMtMjE1MDMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+----------------------------------------------------------------------
+#22 | VMESS | Latency: 657ms (10/10 OK)
+vmess://eyJhZGQiOiI4Mi4xOTguMjQ2LjIzMyIsImFpZCI6IjAiLCJob3N0Ijoic2VhOS5maXJld2FsbGNvbnRyYWN0LmNsaWNrIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxODAiLCJwcyI6IltPcGVuUmF5XSDwn4e68J+HuCBVUy0xNTI2NSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+----------------------------------------------------------------------
+#23 | VMESS | Latency: 680ms (9/10 OK)
+vmess://eyJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwiYWlkIjoiMCIsImhvc3QiOiJncmVlbjIuY2RudGVuY2VudG11c2ljLmNvbSIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTgwIiwicHMiOiJbT3BlblJheV0g8J+HuvCfh7ggVVMtMjE1NDkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+----------------------------------------------------------------------
+#24 | VMESS | Latency: 680ms (9/10 OK)
+vmess://eyJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwiYWlkIjoiMCIsImhvc3QiOiJqb3NzLmdwajEud2ViLmlkIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxODAiLCJwcyI6IltPcGVuUmF5XSDwn4e68J+HuCBVUy0yMTU1MSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+----------------------------------------------------------------------
+#25 | VLESS | Latency: 690ms (10/10 OK)
+vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&sid=3d3c1e645f763ee3&type=tcp&flow=xtls-rprx-vision&encryption=none#[OpenRay]%20%F0%9F%87%A8%F0%9F%87%A6%20CA-26473
+----------------------------------------------------------------------
+#26 | VLESS | Latency: 692ms (10/10 OK)
+vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?security=&type=ws&path=/&host=mypanel.unixzone.us&encryption=none#[OpenRay]%20%F0%9F%87%B3%F0%9F%87%B1%20NL-9732
+----------------------------------------------------------------------
+#27 | VMESS | Latency: 693ms (10/10 OK)
+vmess://eyJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwiYWlkIjoiMCIsImhvc3QiOiJqcDEuc3N0YW5rLnRvcCIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwibmV0IjoidGNwIiwicGF0aCI6Ii9oZWxsbyIsInBvcnQiOiIxODAiLCJwcyI6IltPcGVuUmF5XSDwn4e68J+HuCBVUy0yMjIyMCIsInNjeSI6ImF1dG8iLCJzbmkiOiJqcDEuc3N0YW5rLnRvcCIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+----------------------------------------------------------------------
+#28 | VLESS | Latency: 718ms (10/10 OK)
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.179:443?security=reality&sni=yahoo.com&fp=ios&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&flow=xtls-rprx-vision&encryption=none#[OpenRay]%20%F0%9F%87%BA%F0%9F%87%B8%20US-22785
+----------------------------------------------------------------------
+#29 | VMESS | Latency: 722ms (10/10 OK)
+vmess://eyJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwiYWlkIjoiMCIsImhvc3QiOiJqb3NzLmdwajQud2ViLmlkIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxODAiLCJwcyI6IltPcGVuUmF5XSDwn4e68J+HuCBVUy0yMTIwMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+----------------------------------------------------------------------
+#30 | VMESS | Latency: 747ms (10/10 OK)
+vmess://eyJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwiYWlkIjoiMCIsImhvc3QiOiJYWFhjY0ZydC45MjI5MjIuU2hPUCIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwibmV0IjoidGNwIiwicGF0aCI6Ii9Sa1VVYnFoQTlHSlpCUk9qTDNRNXZUeW1yIiwicG9ydCI6IjE4MCIsInBzIjoiW09wZW5SYXldIPCfh7rwn4e4IFVTLTIxNjUyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+----------------------------------------------------------------------
+#31 | VMESS | Latency: 768ms (10/10 OK)
+vmess://eyJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwiYWlkIjoiMCIsImhvc3QiOiJ5ZXNwYWludHN0dWRpby5yYXYta3Jhc2tpLnJ1IiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxODAiLCJwcyI6IltPcGVuUmF5XSDwn4e68J+HuCBVUy0xNjM1NCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+----------------------------------------------------------------------
+#32 | VLESS | Latency: 807ms (9/10 OK)
+vless://56c673ba-865a-48ec-8dc0-fd7133a7ecfd@www.baipiao.eu.org:8880?security=&type=ws&path=/&host=curly-surf-4401.75-08c.workers.dev&encryption=none#[OpenRay]%20Dynamic-21180
+----------------------------------------------------------------------
+#33 | VLESS | Latency: 819ms (9/10 OK)
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.231.159:62145?security=&type=tcp&encryption=none#[OpenRay]%20%F0%9F%87%A8%F0%9F%87%B4%20CO-140
+----------------------------------------------------------------------
+#34 | VMESS | Latency: 859ms (9/10 OK)
+vmess://eyJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwiYWlkIjoiMCIsImhvc3QiOiI0MTIwLWJlMDQtMTNFRjU2MDk2OTg5LjQ1Ny5QcC5VYSIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwibmV0IjoidGNwIiwicGF0aCI6Ii9rVDVWSFljTXJwaGVzcVJPelNQb0hyQm8iLCJwb3J0IjoiMTgwIiwicHMiOiJbT3BlblJheV0g8J+HuvCfh7ggVVMtMTE3MzYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+----------------------------------------------------------------------
+#35 | VLESS | Latency: 912ms (7/10 OK)
+vless://d2042070-c247-4226-a3ac-15337923e00d@45.195.228.192:443?security=reality&sni=storage.yandex.net&fp=firefox&pbk=66-fz0xjwauydj29EfFKyPHjJ2CIGaGSsJ6hsB--zAc&sid=6ecdb111a4e57f94&type=tcp&flow=xtls-rprx-vision&encryption=none#[OpenRay]%20%F0%9F%87%AB%F0%9F%87%AE%20FI-4994
+----------------------------------------------------------------------
+#36 | VMESS | Latency: 962ms (8/10 OK)
+vmess://eyJhZGQiOiIyMTYuMTA2LjE4NS4xNDEiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoiW09wZW5SYXldIPCfh7rwn4e4IFVTLTE0MTU1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+----------------------------------------------------------------------
+#37 | VLESS | Latency: 1045ms (9/10 OK)
+vless://bfa91d79-049c-41e1-be94-029397377150@87.242.85.201:35412?security=&type=tcp&encryption=none#[OpenRay]%20%F0%9F%87%B7%F0%9F%87%BA%20RU-32442
+----------------------------------------------------------------------
+#38 | VLESS | Latency: 1146ms (10/10 OK)
+vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@177.3.208.169:443?security=tls&sni=titandarkness.mooo.com&fp=chrome&type=ws&path=/21381/0kO2id8FMQ&host=titandarkness.mooo.com&encryption=none#[OpenRay]%20%F0%9F%87%BA%F0%9F%87%B8%20US-23763
+----------------------------------------------------------------------
+#39 | SHADOWSOCKS | Latency: 1672ms (9/10 OK)
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@103.106.229.69:9090#[OpenRay]%20%F0%9F%87%B8%F0%9F%87%AC%20SG-1711
+----------------------------------------------------------------------
+#40 | VMESS | Latency: 1958ms (6/10 OK)
+vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6IjAiLCJob3N0IjoiNDcuMjQ0LjEyMC4xOTciLCJpZCI6IjQ1YjgzNTE5LTljNGYtNDA1Mi1hMTFiLTAyZTAxN2I2MzZkNCIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJwb3J0IjoiMzY3MDMiLCJwcyI6IltPcGVuUmF5XSDwn4et8J+HsCBISy02MTIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+----------------------------------------------------------------------
